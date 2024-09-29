@@ -1,0 +1,1366 @@
+book,title,author,genre,num_pages
+1,And Then There Were None,Agatha Christie,Mystery,264.0
+2,"The Lion, the Witch and the Wardrobe",C. S. Lewis,"Fantasy, Children's fiction",206.0
+3,Harry Potter and the Chamber of Secrets,J. K. Rowling,Fantasy,352.0
+4,The Catcher in the Rye,J. D. Salinger,Coming-of-age,234.0
+5,Lolita,Vladimir Nabokov,Novel,335.0
+6,Anne of Green Gables,Lucy Maud Montgomery,Children's novel,320.0
+7,The Ginger Man,J. P. Donleavy,Novel,347.0
+8,Cosmos,Carl Sagan,"Popular science, Anthropology, Astrophysics, Cosmology, Philosophy, History",208.0
+9,The Great Gatsby,F. Scott Fitzgerald,"Novel, tragedy",182.0
+10,Rebecca,Daphne du Maurier,Gothic novel,176.0
+11,The Godfather,Mario Puzo,Crime novel,448.0
+12,Pride and Prejudice,Jane Austen,"Classic regency novel, romance",480.0
+13,Dune,Frank Herbert,Science fiction novel,667.0
+14,Charlie and the Chocolate Factory,Roald Dahl,Children's fantasy novel,40.0
+15,The Outsiders,S. E. Hinton,Fiction,160.0
+16,The Grapes of Wrath,John Steinbeck,Fiction,464.0
+17,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science fiction,215.0
+18,Life After Life,Raymond Moody,"Fiction,Contemporary,Literary Fiction,Adult Fiction,American,Southern,Death,Adult,Novels,Family,Audiobook",352.0
+19,The Giver,Lois Lowry,Dystopian fiction,208.0
+20,The Prophet,Kahlil Gibran,"Fantasy,Paranormal,Mystery,Paranormal,Ghosts,Fantasy,Urban Fantasy,Romance,Fantasy,Romance,Paranormal Romance,Horror,Fiction,Fantasy,Supernatural",347.0
+21,Catch-22,Joseph Heller,Fiction,519.0
+22,Fahrenheit 451,Ray Bradbury,Book burning,190.0
+23,Bridget Jones's Diary,Helen Fielding,Fiction,271.0
+24,Gilead,Marilynne Robinson,Fiction,247.0
+25,The Four Loves,Clive Staples Lewis,Christian life,170.0
+26,The Problem of Pain,Clive Staples Lewis,Christian life,176.0
+27,Assassin's Apprentice,Robin Hobb,American fiction,460.0
+28,The Once and Future King,Terence Hanbury White,Fiction,639.0
+29,Glamorous Powers,Susan Howatch,Clergy,512.0
+30,Post Captain,Patrick O'Brian,"Aubrey, Jack (Fictitious character)",474.0
+31,The Reverse of the Medal,Patrick O'Brian,Adventure stories,261.0
+32,The White Album,Joan Didion,American essays,224.0
+33,Partners in Crime,Agatha Christie,"Beresford, Tommy (Fictitious character)",347.0
+34,Death in the Clouds,Agatha Christie,Detective and mystery stories,333.0
+35,Appointment with Death,Agatha Christie,Detective and mystery stories,303.0
+36,Hallowe'en Party,Agatha Christie,"Poirot, Hercule (Fictitious character)",336.0
+37,The Thirteen Problems,Agatha Christie,"Detective and mystery stories, English",315.0
+38,They Do it with Mirrors,Agatha Christie,American fiction,284.0
+39,The Hollow,Agatha Christie,Detective and mystery stories,384.0
+40,Endless Night,Agatha Christie,FICTION,303.0
+41,The Mysterious Mr. Quin,Agatha Christie,Detective and mystery stories,396.0
+42,The Return of the King,John Ronald Reuel Tolkien,"Baggins, Frodo (Fictitious character)",440.0
+43,The Silmarillion,John Ronald Reuel Tolkien,Fantasy,384.0
+44,There's a Boy in the Girls' Bathroom,Louis Sachar,Boys,208.0
+45,Where Rainbows End,Cecelia Ahern,Friendship,454.0
+46,Naked Lunch,William S. Burroughs,Alienation (Social psychology),289.0
+47,Tropic of Cancer,Henry Miller,Fiction,336.0
+48,The Short Stories of Ernest Hemingway,Ernest Hemingway,Fiction,499.0
+49,The Elements of Style,William Strunk;Elwyn Brooks White,Language Arts & Disciplines,85.0
+50,Diary of a Spider,Doreen Cronin,Juvenile Fiction,40.0
+51,Going Postal,Terry Pratchett,Fiction,377.0
+52,Island,Aldous Huxley,Fiction,354.0
+53,The Art of the Novel,Milan Kundera,Literary Criticism,176.0
+54,Identity,Milan Kundera,Fiction,176.0
+55,The Missing Piece Meets the Big O,Shel Silverstein,Juvenile Fiction,104.0
+56,Travels,Michael Crichton,Biography & Autobiography,400.0
+57,Caesar,Colleen McCullough,Fiction,928.0
+58,"Teach Us, Amelia Bedelia",Peggy Parish,Juvenile Fiction,64.0
+59,Anansi Boys,Neil Gaiman,Fiction,387.0
+60,The Whipping Boy,Sid Fleischman,Juvenile Fiction,90.0
+61,Happiness,Will Ferguson,Fiction,320.0
+62,One Hundred Years of Solitude,Gabriel Garcia Marquez,Fiction,448.0
+63,Walt Whitman,Justin Kaplan,Biography & Autobiography,464.0
+64,The Andromeda Strain,Michael Crichton,Fiction,327.0
+65,Congo,Michael Crichton,Fiction,442.0
+66,The Wicked Day,Mary Stewart,Fiction,417.0
+67,The Game,Neil Strauss,Biography & Autobiography,464.0
+68,Lord of Light,Roger Zelazny,Fiction,296.0
+69,Zen and the Art of Motorcycle Maintenance,Robert M. Pirsig,Essentialism (Philosophy),412.0
+70,Ulysses S. Grant,Josiah Bunting,Biography & Autobiography,208.0
+71,Lost Horizon,James Hilton,Fiction,241.0
+72,The Screwtape Letters,C. S. Lewis,Religion,224.0
+73,Mere Christianity,C. S. Lewis,Religion,191.0
+74,This Rough Magic,Mary Stewart,Fiction,373.0
+75,Beauty,Robin McKinley,Juvenile Fiction,325.0
+76,The Dead Beat,Marilyn Johnson,Social Science,272.0
+77,Charms for the Easy Life,Kaye Gibbons,Fiction,272.0
+78,Brave New World and Brave New World Revisited,Aldous Huxley,Fiction,340.0
+79,The Final Solution,Michael Chabon,Fiction,131.0
+80,Touch Not the Cat,Mary Stewart,Fiction,372.0
+81,Odalisque,Neal Stephenson,Fiction,464.0
+82,Sex with the Queen,Eleanor Herman,History,336.0
+83,Brave New World,Aldous Huxley,Fiction,288.0
+84,How to Be Popular,Meg Cabot,Juvenile Fiction,288.0
+85,The Long Winter,Laura Ingalls Wilder,Juvenile Fiction,422.0
+86,Little Town on the Prairie,Laura Ingalls Wilder,Juvenile Fiction,374.0
+87,Holy the Firm,Annie Dillard,Literary Criticism,76.0
+88,The Lost Continent,Bill Bryson,Cities and towns,293.0
+89,The Complete Stories,Franz Kafka,Fiction,486.0
+90,Success Stories,Russell Banks,Fiction,192.0
+91,You Can't Go Home Again,Thomas Wolfe,Fiction,711.0
+92,The Poisonwood Bible,Barbara Kingsolver,Americans,616.0
+93,Collected Stories,Gabriel Garcia Marquez,Fiction,352.0
+94,A Mulligan for Bobby Jobe,Robert Cullen,Fiction,400.0
+95,Joy in the Morning,Betty Smith,Fiction,296.0
+96,The Darling,Russell Banks,Fiction,400.0
+97,Tales of the City,Armistead Maupin,City and town life,272.0
+98,The Hidden Hand,Carroll John Daly,Fiction,272.0
+99,Three Farmers on Their Way to a Dance,Richard Powers,Fiction,352.0
+100,Fiskadoro,Denis Johnson,Fiction,221.0
+101,Operation Wandering Soul,Richard Powers,Fiction,352.0
+102,Reasons to Live,Amy Hempel,Fiction,129.0
+103,Girlfriend in a Coma,Douglas Coupland,Fiction,288.0
+104,Life Is Elsewhere,Milan Kundera;Aaron Asher,Fiction,432.0
+105,Dirt,Stuart Woods,Fiction,448.0
+106,Their Eyes Were Watching God,Zora Neale Hurston,Fiction,219.0
+107,A Tree Grows in Brooklyn,Betty Smith,Fiction,496.0
+108,Daughter of Fortune,Isabel Allende,Fiction,432.0
+109,The Alchemist,Paulo Coelho,Fiction,197.0
+110,The Art of Loving,Erich Fromm,Self-Help,192.0
+111,The Crusader,Paul Kengor,Political Science,432.0
+112,Coraline,Neil Gaiman,Fiction,162.0
+113,Stardust,Neil Gaiman,Fiction,248.0
+114,The Gabriel Hounds,Mary Stewart,Fiction,322.0
+115,Women,Charles Bukowski,Fiction,291.0
+116,The Valkyries,Paulo Coelho,Angels,243.0
+117,Betsy-Tacy,Maud Hart Lovelace,Juvenile Fiction,144.0
+118,Racso and the Rats of NIMH,Jane Leslie Conly,Juvenile Fiction,288.0
+119,Monster,Walter Dean Myers,Juvenile Fiction,281.0
+120,Emily of Deep Valley,Maud Hart Lovelace,Juvenile Fiction,304.0
+121,Howl's Moving Castle,Diana Wynne Jones,Juvenile Fiction,329.0
+122,Christmas Stories,Laura Ingalls Wilder,Juvenile Fiction,80.0
+123,Mission Possible,Ken Blanchard;Terry Waghorn,Business & Economics,242.0
+124,A Star Called Henry,Roddy Doyle,Dublin (Ireland),342.0
+125,The Confessions of Nat Turner,William Styron,Slave insurrections,480.0
+126,Hannibal,Leonard Cottrell,History,248.0
+127,Fury,Salman Rushdie,Anger,272.0
+128,The Trial,Franz Kafka,Fiction,255.0
+129,In Watermelon Sugar,Richard Brautigan,Social action,144.0
+130,Human Traces,Sebastian Faulks,Europe,793.0
+131,Blood Canticle,Anne Rice,Horror tales,400.0
+132,Underground,Haruki Murakami,Cults,309.0
+133,The Convenient Marriage,Georgette Heyer,Fiction,272.0
+134,A Very Long Engagement,Sébastien Japrisot,Feature films [DVD],320.0
+135,False Colours,Georgette Heyer,Brothers,303.0
+136,Sprig Muslin,Georgette Heyer,England,268.0
+137,The Quiet American,Graham Greene,Americans,180.0
+138,The Heart of the Matter,Graham Greene,Fiction,272.0
+139,Enduring Love,Ian McEwan,Accidents,245.0
+140,For Whom the Bell Tolls,Ernest Hemingway,Americans,490.0
+141,Dublin 4,Maeve Binchy,Domestic fiction,256.0
+142,Circle of Friends,Maeve Binchy,College attendance,722.0
+143,Airframe,Michael Crichton,Adventure stories,431.0
+144,Midnight's Children,Salman Rushdie,Children of the rich,647.0
+145,"Cry, the Beloved Country",Alan Paton,Fiction,316.0
+146,Deception,Philip Roth,Adultery,208.0
+147,A Farewell to Arms,Ernest Hemingway,War,293.0
+148,Cross Stitch,Diana Gabaldon,Historical fiction,864.0
+149,Social Psychology,Elliot Aronson;Timothy D. Wilson;Robin M. Akert,Psychology,633.0
+150,Big Money,Pelham G. Wodehouse,Fiction,288.0
+151,Switch Bitch,Roald Dahl,Fiction,140.0
+152,The Pearl,John Steinbeck,Fiction,181.0
+153,The New York Trilogy,Paul Auster,Fiction,203.0
+154,The Pigeon,Patrick Süskind,Pigeons,77.0
+155,You Bright and Risen Angels,William T. Vollmann,Fiction,635.0
+156,The Big Rock Candy Mountain,Wallace Stegner,Fiction,563.0
+157,The Portable James Joyce,James Joyce,Fiction,762.0
+158,The Portable Dorothy Parker,Dorothy Parker,Literary Collections,610.0
+159,Libra,Don DeLillo,Fiction,480.0
+160,The Assault,Reinaldo Arenas;Andrew Hurley,Fiction,176.0
+161,Of Mice and Men,John Steinbeck;Susan Shillinglaw,Cowboys,160.0
+162,Leviathan,Thomas Hobbes;Edwin M. Curley,Philosophy,627.0
+163,Essays,George Orwell,Literary Collections,1369.0
+164,Collected Short Stories,Graham Greene,Fiction,368.0
+165,North of South,Shiva Naipaul,Social Science,352.0
+166,I Ching,John Blofeld,"Body, Mind & Spirit",240.0
+167,The Beloved,Kahlil Gibran;John Walbridge,Fiction,102.0
+168,Regeneration,Julie E. Czerneda,Fiction,543.0
+169,The Tortilla Curtain,T. Coraghessan Boyle,Fiction,355.0
+170,How the Mind Works,Steven Pinker,Philosophy,660.0
+171,Under the Sea Wind,Rachel Carson,Fiction,320.0
+172,Solomon's Song,Bryce Courtenay,Australia,671.0
+173,Wide Sargasso Sea,Jean Rhys,British,160.0
+174,My Year of Meats,Ruth L. Ozeki,Fiction,366.0
+175,Lord of the Flies,William Golding,Fiction,336.0
+176,The Inimitable Jeeves,Pelham Grenville Wodehouse,Fiction,240.0
+177,Wanderlust,Rebecca Solnit,Social Science,326.0
+178,Collected Fictions,Jorge Luis Borges;Andrew Hurley,Fiction,565.0
+179,Spellbound,Jane Green,Fiction,439.0
+180,A Year in Provence,Peter Mayle,Provence (France),207.0
+181,The Periodic Table,Primo Levi;Raymond Rosenthal,"Authors, Italian",194.0
+182,The Basque History of the World,Mark Kurlansky,History,400.0
+183,World's End,T. Coraghessan Boyle,Fiction,480.0
+184,Little Plum,Rumer Godden,Juvenile Fiction,144.0
+185,Fairy Tales,Terry Jones;Michael Foreman,Children's stories,160.0
+186,Strange Attractors,William Sleator,Juvenile Fiction,176.0
+187,Bound for Oregon,Jean Van Leeuwen,Juvenile Fiction,176.0
+188,The Complete Poems,William Blake,Literary Criticism,1072.0
+189,The Canterbury Tales,Geoffrey Chaucer,Poetry,489.0
+190,The Law and the Lady,Wilkie Collins,Fiction,383.0
+191,Martin Chuzzlewit,Charles Dickens,Fiction,830.0
+192,Selected Writings,Saint Thomas (Aquinas);Ralph McInerny;Ralph M. McInerny,Literary Collections,841.0
+193,Three Men in a Boat,Jerome K. Jerome,Boats and boating,272.0
+194,A Journal of the Plague Year,Daniel Defoe,Fiction,289.0
+195,Saint Joan,George Bernard Shaw,Drama,160.0
+196,Cousin Pons,Honore Balzac,Fiction,336.0
+197,Phaedrus,Plato;Robin Waterfield,Philosophy,128.0
+198,Love,Stendhal,Literary Collections,336.0
+199,The Oresteia,Aeschylus,Drama,304.0
+200,Notre-Dame de Paris,Victor Hugo;John Sturrock,Fiction,493.0
+201,Eugene Onegin,Alexander Pushkin;James E. Falen,Fiction,240.0
+202,Les Miserables,Victor Hugo;Norman Denny,Fiction,1232.0
+203,Democracy in America,Alexis de Tocqueville;Arthur Goldhammer,Philosophy,928.0
+204,Metamorphosis,Ovid;David Raeburn,Fiction,723.0
+205,Three Tales,Gustave Flaubert;Roger Whitehouse;Geoffrey Wall,Fiction,110.0
+206,Dead Souls,Nikolaĭ Vasilʹevich Gogolʹ,Fiction,445.0
+207,City of God,E. L. Doctorow,Fiction,272.0
+208,The Histories,Herodotus,History,772.0
+209,Anna Karenina,graf Leo Tolstoy;Louise Maude;Aylmer Maude,Fiction,752.0
+210,The Twelve Caesars,Suetonius,Fiction,363.0
+211,The Last Days of Socrates,Plato;Hugh Tredennick,Fiction,256.0
+212,Time of Wonder,Robert McCloskey,Juvenile Fiction,64.0
+213,Lentil,Robert McCloskey,Juvenile Fiction,64.0
+214,The Giraffe and the Pelly and Me,Roald Dahl;Quentin Blake,Candy,32.0
+215,Wuthering Heights,Emily Bronte;Emily Brontë,Fiction,464.0
+216,Far from the Madding Crowd,Thomas Hardy,England,374.0
+217,The Sonnets,William Shakespeare,Drama,164.0
+218,Hamlet,William Shakespeare;Burton Raffel;Harold Bloom,Drama,249.0
+219,A Midsummer Night's Dream,William Shakespeare,Juvenile Nonfiction,99.0
+220,In the Heart of the Sea,Nathaniel Philbrick,History,302.0
+221,Door Wide Open,Jack Kerouac,Biography & Autobiography,232.0
+222,How to Build a Time Machine,Paul Davies,Science,148.0
+223,You Shall Know Our Velocity,Dave Eggers,Fiction,350.0
+224,The Epic of Gilgamesh,Maureen Gallery Kovacs,Literary Criticism,122.0
+225,One Flew Over the Cuckoo's Nest,Ken Kesey,Mentally ill,281.0
+226,Ulysses,James Joyce,,405.0
+227,Howards End,Edward Morgan Forster,Fiction,312.0
+228,A Room of One's Own,Virginia Woolf;Susan Gubar,Fiction,112.0
+229,Tender is the Night,F. Scott Fitzgerald,Fiction,400.0
+230,A Spy In The House Of Love,Anais Nin,Fiction,124.0
+231,Keep the Aspidistra Flying,George Orwell,Fiction,277.0
+232,Labyrinths,Jorge Luis Borges,Classical fiction,287.0
+233,The Dharma Bums,Jack Kerouac,Fiction,187.0
+234,The Subterraneans,Jack Kerouac,Fiction,192.0
+235,The Plague,Albert Camus,Epidemics,238.0
+236,Answered Prayers,Truman Capote,Authors,192.0
+237,Mysteries,Colin Wilson,"Body, Mind & Spirit",672.0
+238,Giovanni's Room,James Baldwin,Fiction,159.0
+239,The Bell,Iris Murdoch,Fiction,296.0
+240,Seven Gothic Tales,Isak Dinesen,Fiction,368.0
+241,Orientalism,John MacKenzie;John MacDonald MacKenzie,Art,256.0
+242,Crazy,Benjamin Lebert,Handicapped youth,175.0
+243,Boy,Roald Dahl,"Authors, English",176.0
+244,Emma,Jane Austen,Literary Criticism,402.0
+245,Mansfield Park,Jane Austen,Literary Criticism,418.0
+246,Tono-Bungay,H.G. Wells,Fiction,414.0
+247,A Passage to India,Edward Morgan Forster;Pankaj Mishra,Fiction,376.0
+248,Icy Sparks,Gwyn Hyman Rubio,Fiction,320.0
+249,Bridget Jones's Guide to Life,Helen Fielding,Fiction,64.0
+250,East of Eden,John Steinbeck,Fiction,602.0
+251,Cannery Row,John Steinbeck,Fiction,181.0
+252,Travels with Charley,John Steinbeck,Biography & Autobiography,214.0
+253,Drop City,T. Coraghessan Boyle,Fiction,497.0
+254,Nuns and Soldiers,Iris Murdoch,Fiction,512.0
+255,Pippi Longstocking,Astrid Lindgren,Juvenile Fiction,160.0
+256,Moon-Flash,Patricia A. McKillip,Juvenile Fiction,304.0
+257,A Little Princess,Frances Hodgson Burnett,Juvenile Fiction,208.0
+258,Jane Eyre,Charlotte Brontë,Fiction,532.0
+259,On the Road,Jack Kerouac,Fiction,320.0
+260,The Power and the Glory,Graham Greene,Fiction,222.0
+261,Enchantress from the Stars,Sylvia Louise Engdahl,Juvenile Fiction,275.0
+262,Castaways of the Flying Dutchman,Brian Jacques,Juvenile Fiction,356.0
+263,Salamandastron,Brian Jacques;Gary Chalk,Juvenile Fiction,400.0
+264,Jane Austen,Carol Shields,Biography & Autobiography,192.0
+265,The Stone Diaries,Carol Shields,Fiction,384.0
+266,March,Geraldine Brooks,Fiction,280.0
+267,The City of Falling Angels,John Berendt,History,414.0
+268,Tooth and Claw,T. Coraghessan Boyle,Fiction,304.0
+269,Bleak House,Charles Dickens;Nicola Bradbury,Fiction,1017.0
+270,The Tale of Genji,Murasaki Shikibu,,1090.0
+271,The Adventures of Augie March,Saul Bellow;Christopher Hitchens,Fiction,586.0
+272,Mrs. Dalloway,Virginia Woolf,Fiction,197.0
+273,Animal Farm and 1984,George Orwell,Fiction,400.0
+274,Gifts,Ursula K. Le Guin,Juvenile Fiction,286.0
+275,Voices,Ursula K. Le Guin,Juvenile Fiction,341.0
+276,The Metamorphoses of Ovid,Allen Mandelbaum,Literary Criticism,559.0
+277,Winterdance,Gary Paulsen,Pets,272.0
+278,All the King's Men,L. David Allen;Robert H. Lynn,Literary Criticism,80.0
+279,The History of the Siege of Lisbon,Jose Saramago;Giovanni Pontiero,Lisbon (Portugal),314.0
+280,Slammerkin,Emma Donoghue,Fiction,410.0
+281,The Tale of the Unknown Island,José Saramago,Fiction,64.0
+282,The Cyberiad,Stanislaw Lem,Fiction,295.0
+283,Women and Writing,Virginia Woolf,Literary Criticism,216.0
+284,The Cave,Robert Penn Warren,Fiction,424.0
+285,The Female of the Species,Joyce Carol Oates,Fiction,275.0
+286,To the Lighthouse,Virginia Woolf,Fiction,209.0
+287,Three Guineas,Virginia Woolf;Jane Marcus;Mark Hussey,Fiction,352.0
+288,Virginia Woolf,Hermione Lee,Biography & Autobiography,893.0
+289,Between the Acts,Virginia Woolf,Fiction,224.0
+290,Homage to Catalonia,George Orwell,History,232.0
+291,The Inheritors,William Golding,Fiction,240.0
+292,Moments of Being,Virginia Woolf,Biography & Autobiography,230.0
+293,Mrs. Miniver,Jan Struther,Fiction,162.0
+294,The Waves,Virginia Woolf,Experimental fiction,297.0
+295,Typhoon and Other Tales,Joseph Conrad,Fiction,304.0
+296,Persuasion,Jane Austen,Fiction,249.0
+297,The Picture of Dorian Gray,Oscar Wilde,Fiction,367.0
+298,Confessions,Jean-Jacques Rousseau,Literary Criticism,676.0
+299,Jane Austen's Letters,Jane Austen,Fiction,672.0
+300,Great Expectations,Charles Dickens,Fiction,480.0
+301,War and Peace,graf Leo Tolstoy,Fiction,1388.0
+302,The Bostonians,Henry James,Fiction,504.0
+303,Scenes of Clerical Life,George Eliot,Fiction,310.0
+304,Aesop's Fables,Laura Gibbs,Fiction,306.0
+305,Augustine: A Very Short Introduction,Henry Chadwick,Biography & Autobiography,144.0
+306,The Hound of the Baskervilles,Arthur Conan Doyle,Fiction,256.0
+307,Inferno,Dante Alighieri,Literary Criticism,672.0
+308,Medea,Eurípides;Michael Collier;Georgia Machemer,Drama,116.0
+309,Philosophy of Mind,David John Chalmers,Philosophy,675.0
+310,Lysistrata,Aristophanes;Sarah Ruden,Literary Criticism,132.0
+311,The Oxford Companion to Philosophy,Ted Honderich,Philosophy,1056.0
+312,Every Second Counts,Lance Armstrong;Sally Jenkins,Cancer,246.0
+313,The Bridge on the Drina,Ivo Andríc,Fiction,314.0
+314,Plato's Symposium,Plato;Seth Benardete,Philosophy,199.0
+315,Oresteia,Esquilo;Aeschylus,Erinyes (Greek mythology),171.0
+316,Heat Wave,Eric Klinenberg,History,320.0
+317,A River Runs Through It,Norman Maclean,Biography & Autobiography,168.0
+318,Genetics and the Origin of Species,Theodosius Dobzhansky,Science,364.0
+319,More Than You Know,Michael J. Mauboussin,Business & Economics,268.0
+320,Directing the Documentary,Michael Rabiger,Performing Arts,648.0
+321,Stuart Little,Elwyn Brooks White,"Little, Stuart (Fictitious character)",144.0
+322,The Dark Descent,Clive Barker;Ray Bradbury,Fiction,1011.0
+323,Dante's Inferno,Dante (Alighieri);Dante Alighieri,Poetry,432.0
+324,The Lays of Beleriand,John Ronald Reuel Tolkien;Christopher Tolkien,Poetry,393.0
+325,Elbow Room,Daniel Clement Dennett,Philosophy,200.0
+326,Pop Internationalism,Paul R. Krugman,Business & Economics,221.0
+327,Zero,Charles Seife,Zero (The number),248.0
+328,Zen Buddhism & Psychoanalysis,Daisetz Teitaro Suzuki;Erich Fromm;Richard De Martino,Psychoanalysis and religion,188.0
+329,The Wanderer,Knut Hamsun;Gunnvor Stallybrass,English fiction,164.0
+330,Memoirs,Pablo Neruda,"Poets, Chilean",378.0
+331,Art and Beauty in the Middle Ages,Umberto Eco,Art,144.0
+332,Cuba,Stephen Coonts,Fiction,461.0
+333,Beloved,Toni Morrison,Fiction,324.0
+334,The Devil Wears Prada,Lauren Weisberger,Fiction,432.0
+335,Death Match,Diane Duane,Fiction,192.0
+336,The Civil War,Shelby Foote,United States,2934.0
+337,Trial by Fire,Terri Blackstock,Fiction,347.0
+338,Breach of Promise,James Scott Bell,Fiction,345.0
+339,Deadlock,James Scott Bell,Fiction,319.0
+340,Ever After,Karen Kingsbury,Fiction,337.0
+341,Fanning the Flame,Christopher J. H. Wright,Religion,336.0
+342,The Awakening,Kate Chopin,Adultery,343.0
+343,The Everyday I Ching,Sarah Dening,"Body, Mind & Spirit",224.0
+344,The Far Pavilions,M. M. Kaye,Fiction,958.0
+345,I Capture the Castle,Dodie Smith,Fiction,343.0
+346,Marilyn Manson,Richard D. Nelson,Religion,224.0
+347,Human Croquet,Kate Atkinson,Fiction,352.0
+348,The Naked and the Dead,Norman Mailer,Fiction,721.0
+349,Catfish and Mandala,Andrew X. Pham,Biography & Autobiography,344.0
+350,The Glass Bead Game,Hermann Hesse,Fiction,558.0
+351,Lords of the White Castle,Elizabeth Chadwick,Fiction,624.0
+352,The Christmas Shoes,Donna VanLiere,Fiction,132.0
+353,The Little Princesses,Marion Crawford,Biography & Autobiography,230.0
+354,Dominion,Matthew Scully,Nature,448.0
+355,A Woman of Substance,Barbara Taylor Bradford,Fiction,928.0
+356,Middlesex,Jeffrey Eugenides,Fiction,529.0
+357,The Interpreter,Suki Kim,Fiction,304.0
+358,Mason & Dixon,Thomas Pynchon,Fiction,773.0
+359,Call It Sleep,Henry Roth,Fiction,462.0
+360,Small Island,Andrea Levy,Fiction,441.0
+361,Collected Prose,Paul Auster,Literary Collections,528.0
+362,The Humanoids,Jack Williamson,Fiction,299.0
+363,The Land of Laughs,Jonathan Carroll,Fiction,256.0
+364,The Fantasies of Robert A. Heinlein,Robert A. Heinlein,Fiction,342.0
+365,The Circle,David Poyer,Fiction,543.0
+366,The Damned,L. A. Banks,Fiction,492.0
+367,A Quiver Full of Arrows,Jeffrey Archer,Fiction,288.0
+368,The Hunted,L. A. Banks,Fiction,565.0
+369,All Creatures Great and Small,James Herriot,Biography & Autobiography,437.0
+370,The Lord God Made Them All,James Herriot,Biography & Autobiography,373.0
+371,Warlock,Wilbur Smith,Fiction,642.0
+372,Crooked House,Agatha Christie,Fiction,276.0
+373,The Sigma Protocol,Robert Ludlum,Fiction,662.0
+374,Full Blast,Janet Evanovich;Charlotte Hughes,Fiction,344.0
+375,Hard Eight,Janet Evanovich,Bail bond agents,339.0
+376,The Janson Directive,Robert Ludlum,Fiction,693.0
+377,SantaKid,James Patterson,Juvenile Fiction,48.0
+378,The Truth of the Matter,Robb Forman Dew,Fiction,352.0
+379,Twilight,Stephenie Meyer,Young Adult Fiction,498.0
+380,Mythology,Alex Ross,Art,320.0
+381,The Black Veil,Rick Moody,Family & Relationships,336.0
+382,Don't Stop the Carnival,Herman Wouk,Fiction,416.0
+383,Andrew Carnegie and the Rise of Big Business,Harold C. Livesay,Biography & Autobiography,230.0
+384,The Little Prince,Antoine de Saint-Exupéry;Katherine Woods,"Children's literature, French",96.0
+385,A Gift of Wings,Richard Bach,Air pilots,299.0
+386,Paper Money,Ken Follett,Conspiracies,286.0
+387,Them,Joyce Carol Oates,Fiction,576.0
+388,Under the Banner of Heaven,Jon Krakauer,History,399.0
+389,Chasing the Monsoon,Alexander Frater,India,273.0
+390,Blackout,John J. Nance,Bombings,672.0
+391,A Bend in the River,V. S. Naipaul,Fiction,326.0
+392,Ragtime,E. L. Doctorow,New York (State),369.0
+393,From Russia with Love,Ian Fleming,Adventure stories,208.0
+394,Casino Royale,Ian Fleming,"Bond, James (Fictitious character)",188.0
+395,Escape,James Clavell,Fiction,584.0
+396,Whirlwind,James Clavell,Fiction,1231.0
+397,Five Go Adventuring Again,Enid Blyton,Children's stories,246.0
+398,Stranger in a Strange Land,Robert A. Heinlein,Science fiction,672.0
+399,The Secret Seven,Enid Blyton,Adventure fiction,144.0
+400,Tales of the Cthulhu Mythos,H. P. Lovecraft,Fiction,462.0
+401,Story of O,Pauline Réage,Fiction,199.0
+402,With Friends Like These,Alan Dean Foster,Fiction,236.0
+403,The Tolkien Reader,J. R. R. Tolkien,Fiction,272.0
+404,The Proud Highway,Hunter S. Thompson,Biography & Autobiography,720.0
+405,The Battle for God,Karen Armstrong,Religion,480.0
+406,Twister,Michael Crichton;Anne-Marie Martin,Motion picture plays,182.0
+407,Friday,Robert Anson Heinlein,Fiction,384.0
+408,The Princess Bride,William Goldman,Fiction,398.0
+409,"Life, the Universe and Everything",Douglas Adams,Fiction,224.0
+410,The Tale of the Body Thief,Anne Rice,Fiction,468.0
+411,The Analects of Confucius,Confucius;Roger T. Ames;Henry Rosemont,Fiction,352.0
+412,The Courtesan,Susan Carroll,Fiction,560.0
+413,The Dark Arena,Mario Puzo,Fiction,288.0
+414,The Talisman,Stephen King;Peter Straub,Fiction,735.0
+415,Lights Out,Peter Abrahams,Fiction,352.0
+416,Death in Holy Orders,P. D. James,Fiction,429.0
+417,1968,Mark Kurlansky,History,480.0
+418,Lost and Found,Alan Dean Foster,Fiction,256.0
+419,Judas Unchained,Peter F. Hamilton,Fiction,1008.0
+420,All I Really Need to Know I Learned in Kindergarten,Robert Fulghum,Self-Help,240.0
+421,Perfect Nightmare,John Saul,Fiction,384.0
+422,Oh My Stars,Lorna Landvik,Fiction,416.0
+423,The Guns of August,Barbara Wertheim Tuchman,History,606.0
+424,Vanish,Tess Gerritsen,Fiction,401.0
+425,Tempest,Troy Denning,Fiction,400.0
+426,"Narrative of the Life of Frederick Douglass, an American Slave",Frederick Douglass;Harriet Jacobs,Biography & Autobiography,464.0
+427,Enchantment,Orson Scott Card,Fiction,422.0
+428,Aldous Huxley,Nicholas Murray,Great Britain,496.0
+429,Me Talk Pretty One Day,David Sedaris,Education,272.0
+430,Dead Air,Iain Banks,London (England),436.0
+431,P.S. I Love You,Valerie Parv,Fiction,192.0
+432,Monkey Business,Marvin N. Olasky;John Perry,Religion,368.0
+433,Time & Again,Nora Roberts,Man-woman relationships,505.0
+434,First Impressions,Nora Roberts,Fiction,250.0
+435,Expectant Father,Melinda Curtis,Fiction,304.0
+436,The Other Woman,Ann O'Leary,Fiction,213.0
+437,Tell Me No Lies,Elizabeth Lowell,Fiction,576.0
+438,The Perfect Score,Julie Kenner,Fiction,240.0
+439,Winter Moon,Mercedes Lackey;Tanith Lee;C. E. Murphy,Fiction,393.0
+440,Brighid's Quest,P. C. Cast,Fiction,507.0
+441,The Foundling,Lloyd Alexander,Juvenile Fiction,98.0
+442,Sylvester,Georgette Heyer,Fiction,410.0
+443,Sylvia,Leonard Michaels,Fiction,129.0
+444,Uncommon Carriers,John McPhee,Literary Collections,248.0
+445,The Natural,Bernard Malamud,Fiction,231.0
+446,The Slave,Isaac Bashevis Singer,Fiction,320.0
+447,The Control of Nature,John McPhee,Nature,288.0
+448,The Death of Artemio Cruz,Carlos Fuentes,Fiction,307.0
+449,Coming Into the Country,John McPhee,Nature,448.0
+450,The Magic Barrel,Bernard Malamud,Fiction,240.0
+451,The Fixer,Bernard Malamud,Fiction,335.0
+452,Gimpel the Fool,Isaac Bashevis Singer,Fiction,224.0
+453,Sophie's World,Jostein Gaarder,Fiction,518.0
+454,Black Hole,Charles Burns,Comics & Graphic Novels,368.0
+455,The Heart of a Woman,Maya Angelou,Biography & Autobiography,288.0
+456,Geisha,Liza Crihfield Dalby,Social Science,367.0
+457,The Moviegoer,Walker Percy,Fiction,242.0
+458,Awakenings,Oliver W. Sacks,Medical,464.0
+459,Lives of Girls and Women,Alice Munro,Fiction,277.0
+460,Anil's Ghost,Michael Ondaatje,Fiction,311.0
+461,Theatre,William Somerset Maugham,Fiction,304.0
+462,A Coffin for Dimitrios,Eric Ambler,Fiction,304.0
+463,Journey Into Fear,Eric Ambler,Fiction,288.0
+464,Lunar Park,Bret Easton Ellis,Fiction,404.0
+465,World Light,Halldór Laxness,Fiction,624.0
+466,The Basic Works of Aristotle,Aristotle,Philosophy,1487.0
+467,Comfort Me With Apples,Ruth Reichl,Biography & Autobiography,302.0
+468,The Survivor,John F. Harris,History,560.0
+469,100 Great Fantasy Short Short Stories,Isaac Asimov;Terry Carr,Fiction,395.0
+470,Tim,Colleen McCullough,Fiction,288.0
+471,Made in America,Bill Bryson,Language Arts & Disciplines,364.0
+472,The Mother Tongue,Bill Bryson,Language Arts & Disciplines,270.0
+473,Shutter Island,Dennis Lehane,Fiction,369.0
+474,Killing Time,Cynthia Harrod-Eagles,Fiction,280.0
+475,Anne Frank,Johanna Hurwitz,Juvenile Nonfiction,64.0
+476,Silver Nights,Jane Feather,Fiction,352.0
+477,Firefly,Piers Anthony,Fiction,466.0
+478,The Nightingale's Song,Kathleen Eschenburg,Fiction,384.0
+479,In the Beginning...was the Command Line,Neal Stephenson,Computers,151.0
+480,Complete Stories and Poems of Edgar Allan Poe,Edgar Allan Poe,Fiction,821.0
+481,The Book of Ruth,Jane Hamilton,Fiction,328.0
+482,Follow Your Heart,Susanna Tamaro,Fiction,208.0
+483,The Outlandish Companion,Diana Gabaldon,Literary Criticism,577.0
+484,"God Bless You, Mr. Rosewater",Kurt Vonnegut,Fiction,288.0
+485,Welcome to the Monkey House,Kurt Vonnegut,Fiction,331.0
+486,Bluebeard,Kurt Vonnegut,Fiction,318.0
+487,King Rat,James Clavell,Fiction,368.0
+488,Player Piano,Kurt Vonnegut,Fiction,341.0
+489,Jailbird,Kurt Vonnegut,Fiction,310.0
+490,Slapstick,Kurt Vonnegut,Fiction,288.0
+491,Palm Sunday,Kurt Vonnegut,Biography & Autobiography,300.0
+492,The Cloud Atlas,Liam Callanan,Fiction,368.0
+493,Coming of Age in Mississippi,Anne Moody,Biography & Autobiography,424.0
+494,Lucifer's Shadow,David Hewson,Fiction,369.0
+495,The Street Lawyer,John Grisham,Fiction,384.0
+496,The Summons,John Grisham,Fiction,384.0
+497,The King of Torts,John Grisham,Fiction,276.0
+498,The Chamber,John Grisham,Fiction,632.0
+499,Texas! Trilogy,Sandra Brown,Fiction,600.0
+500,Like Water for Chocolate,Laura Esquivel,Fiction,242.0
+501,Marie Antoinette,Antonia Fraser,Biography & Autobiography,512.0
+502,The Handmaid's Tale,Margaret Atwood,Dystopias,368.0
+503,Waterfront,Phillip Lopate,Literary Collections,450.0
+504,Oryx and Crake,Margaret Atwood,Fiction,389.0
+505,The Age of Grief,Jane Smiley,Fiction,224.0
+506,Man Walks Into a Room,Nicole Krauss,Fiction,248.0
+507,In the Beginning,Alister E. McGrath,Religion,354.0
+508,Bras & Broomsticks,Sarah Mlynowski,Juvenile Fiction,310.0
+509,Cuba 15,Nancy Osa,Juvenile Fiction,304.0
+510,Messenger,Lois Lowry,Juvenile Fiction,169.0
+511,Code Orange,Caroline B. Cooney,Juvenile Fiction,200.0
+512,The Annotated Huckleberry Finn,Mark Twain,Fiction,656.0
+513,Redemption,Steven G. Kellman,Biography & Autobiography,384.0
+514,Civilization and Its Discontents,Sigmund Freud,History,192.0
+515,Middlemarch,George Eliot,Fiction,578.0
+516,The Book of Embraces,Eduardo Galeano;Cedric Belfrage,Fiction,288.0
+517,Filth,William A. Cohen,History,360.0
+518,On Becoming a Novelist,John Gardner,Language Arts & Disciplines,150.0
+519,The Feminine Mystique,Betty Friedan,Social Science,592.0
+520,The Sisters: The Saga of the Mitford Family,Mary S. Lovell,Biography & Autobiography,611.0
+521,Naked Economics: Undressing the Dismal Science,Charles Wheelan,Business & Economics,288.0
+522,Spook: Science Tackles the Afterlife,Mary Roach,Language Arts & Disciplines,311.0
+523,Paradise Lost,John Milton;Scott Elledge,Bible,688.0
+524,The Scarlet Letter,Nathaniel Hawthorne;Margaret Brantley,Fiction,400.0
+525,Frankenstein,Mary Wollstonecraft Shelley;J. Paul Hunter,Fiction,336.0
+526,The Norton Anthology of Theory and Criticism,Vincent B. Leitch,Literary Criticism,2662.0
+527,Sense and Sensibility,Jane Austen,Fiction,336.0
+528,The Tempest,William Shakespeare,Drama,224.0
+529,Passing,Nella Larsen;Carla Kaplan,Fiction,546.0
+530,Race of Scorpions,Dorothy Dunnett,Fiction,534.0
+531,Hawthorne's Short Stories,Nathaniel Hawthorne,Fiction,384.0
+532,The Occult,Colin Wilson,"Body, Mind & Spirit",606.0
+533,The Wall,John Hersey,Fiction,640.0
+534,The Long Goodbye,Raymond Chandler,Fiction,379.0
+535,The High Window,Raymond Chandler,Fiction,265.0
+536,"Farewell, My Lovely",Raymond Chandler,Fiction,292.0
+537,The Big Sleep,Raymond Chandler,Fiction,231.0
+538,Oscar Wilde,Richard Ellmann,Biography & Autobiography,736.0
+539,Snow,Roy McKié;Philip D. Eastman,Juvenile Nonfiction,72.0
+540,The 500 Hats of Bartholomew Cubbins,Dr. Seuss,Juvenile Fiction,56.0
+541,Roverandom,John Ronald Reuel Tolkien,Fiction,128.0
+542,White Lies,Jayne Ann Krentz,Fiction,371.0
+543,Book of the Dead,Patricia Daniels Cornwell,Fiction,511.0
+544,A Clockwork Orange,Anthony Burgess,English drama,51.0
+545,The Truth,Terry Pratchett,Drama,336.0
+546,Jesus' Son,Denis Johnson,Short stories,192.0
+547,Introduction to Phenomenology,Robert Sokolowski,Philosophy,248.0
+548,The Road to Serfdom,Friedrich August Hayek,Business & Economics,272.0
+549,The Regatta Mystery and Other Stories,Agatha Christie,Fiction,214.0
+550,Patriot Games,Tom Clancy,"Ryan, Jack (Fictitious character)",503.0
+551,Without Remorse,Tom Clancy,Fiction,750.0
+552,A New Leash on Death,Susan Conant,Fiction,180.0
+553,The Key to Midnight,Dean R. Koontz,Fiction,419.0
+554,Debt of Honor,Tom Clancy,Fiction,990.0
+555,Thin Air,Rachel Caine,Fiction,307.0
+556,Rainbow Six,Tom Clancy,Fiction,912.0
+557,Breaking Point,Tom Clancy;Steve R. Pieczenik;Steve Perry,Fiction,368.0
+558,The Bear and the Dragon,Tom Clancy,Fiction,1137.0
+559,Picture Perfect,Jodi Picoult,Fiction,369.0
+560,Shadowland,Peter Straub,Fiction,468.0
+561,Practical Magic,Alice Hoffman,Fiction,286.0
+562,Lightning,Dean Ray Koontz,Fiction,384.0
+563,The Mediterranean Caper,Clive Cussler,Fiction,391.0
+564,Guilty Pleasures,Laurell K. Hamilton,Fiction,355.0
+565,Pattern Recognition,William Gibson,Fiction,367.0
+566,The Glass House,Ashley Gardner,Fiction,256.0
+567,Murder on the Orient Express,Agatha Christie,Fiction,266.0
+568,Hideaway,Dean Ray Koontz,Fiction,413.0
+569,Black Wind,Clive Cussler;Dirk Cussler,Fiction,639.0
+570,Captive Dreams,Angela Knight;Diane Whiteside,Fiction,336.0
+571,Checkmate,David Michaels;Tom Clancy,Fiction,402.0
+572,Cause of Death,Patricia Daniels Cornwell,Fiction,356.0
+573,Over the Moon,Angela Knight;MaryJanice Davidson;Virginia Kantra;Sunny,Fiction,330.0
+574,Labyrinth,Kate Mosse,Fiction,515.0
+575,At Risk,Patricia Daniels Cornwell,Fiction,289.0
+576,Cat's Cradle,Andrew Cartmel,Fiction,262.0
+577,The Mouse and His Child,Russell Hoban;David Small,Juvenile Fiction,244.0
+578,The Call of the Wild,Jack London,Juvenile Fiction,172.0
+579,Holes,Louis Sachar,Blind,233.0
+580,Alice in Wonderland,Lewis Carroll,Juvenile Fiction,160.0
+581,The Rescue,Gordon Korman,Juvenile Fiction,140.0
+582,The Deep,Gordon Korman,Juvenile Fiction,148.0
+583,The Invisible Man,Herbert George Wells,Fiction,192.0
+584,The Adventures of Sherlock Holmes,Sir Arthur Conan Doyle;Eoin Colfer,Juvenile Fiction,336.0
+585,How to Draw the Legend of Zelda,Michael Teitelbaum;Ron Zalme,Juvenile Nonfiction,32.0
+586,Public Enemies,Gordon Korman,Juvenile Fiction,150.0
+587,Underworld,Jude Watson,Juvenile Fiction,160.0
+588,Inkheart,Cornelia Caroline Funke,Juvenile Fiction,563.0
+589,Awakening,Robin Wasserman,Juvenile Fiction,207.0
+590,Betrayal,Robin Wasserman,Juvenile Fiction,209.0
+591,Northern Lights,Philip Pullman,Arctic regions,399.0
+592,The New Centurions,Joseph Wambaugh,Fiction,368.0
+593,Suffer the Children,John Saul,Fiction,378.0
+594,Tai-Pan,James Clavell,Fiction,734.0
+595,The Blue Knight,Joseph Wambaugh,Los Angeles (Calif.),320.0
+596,The Cricket in Times Square,George Selden,Juvenile Fiction,134.0
+597,The Cay,Theodore Taylor,Juvenile Fiction,156.0
+598,The Smoke Jumper,Nicholas Evans,Fiction,576.0
+599,Gone for Good,Harlan Coben,Fiction,432.0
+600,Outlander,Diana Gabaldon,Fiction,850.0
+601,Blessings,Belva Plain,Fiction,393.0
+602,Anastasia on Her Own,Lois Lowry,Juvenile Fiction,160.0
+603,Make Four Million Dollars by Next Thursday!,Stephen Manes,Juvenile Fiction,87.0
+604,The Sly Spy,Marjorie Weinman Sharmat,Juvenile Fiction,74.0
+605,Hoot,Carl Hiaasen,Bullying,292.0
+606,Beowulf,Burton Raffel,Fiction,160.0
+607,A Ring of Endless Light,Madeleine L'Engle,Death,332.0
+608,Neuromancer,William Gibson,Fiction,384.0
+609,Rocket Ship Galileo,Robert Anson Heinlein,Fiction,211.0
+610,Camouflage,Joe W. Haldeman,Fiction,289.0
+611,Dragon's Treasure,Elizabeth A. Lynn,Fiction,336.0
+612,The Rosetta Codex,Richard Paul Russo,Fiction,384.0
+613,Chapterhouse: Dune,Frank Herbert,Fiction,436.0
+614,Madouc,Jack Vance,Fiction,426.0
+615,Back Bay,William Martin,Fiction,532.0
+616,The Book of the Dead,Douglas J. Preston;Lincoln Child,Fiction,454.0
+617,Tell Me Your Dreams,Sidney Sheldon,Fiction,384.0
+618,Up Country,Nelson DeMille,Fiction,880.0
+619,Love Beyond Reason,Sandra Brown,Fiction,272.0
+620,One L,Scott Turow,Law,288.0
+621,When the Wind Blows,James Patterson,Fiction,416.0
+622,Cane River,Lalita Tademy,Fiction,522.0
+623,The Guardian,Nicholas Sparks,Fiction,400.0
+624,True Believer,Nicholas Sparks,Fiction,465.0
+625,The Black Dahlia,James Ellroy,Fiction,348.0
+626,Anne of Avonlea,Lucy Maud Montgomery,Juvenile Fiction,315.0
+627,Wartime Lies,Louis Begley,Fiction,240.0
+628,Naked Came the Manatee,Carl Hiaasen;Dave Barry;Elmore Leonard,Fiction,208.0
+629,Children of God,Mary Doria Russell,Fiction,451.0
+630,Murder at Ford's Theatre,Margaret Truman,Fiction,376.0
+631,The Changeling,Philippa Carr,Fiction,369.0
+632,Journey,James A. Michener,Fiction,336.0
+633,Asylum,John Saul,Fiction,97.0
+634,The Tin Can Tree,Anne Tyler,Fiction,264.0
+635,The Dead Zone,Stephen King,Fiction,402.0
+636,Fools Die,Mario Puzo,Fiction,544.0
+637,I Never Promised You a Rose Garden,Joanne Greenberg,Mental illness,288.0
+638,It,Stephen King,Fiction,1090.0
+639,Thinner,Stephen King;Richard Bachman,Allegories,320.0
+640,The Stranger Beside Me,Ann Rule,True Crime,550.0
+641,Trauma,Graham Masterton,Fiction,224.0
+642,The Oath,Frank E. Peretti,Fiction,576.0
+643,The Key to Rebecca,Ken Follett,Fiction,352.0
+644,Black Like Me,John Howard Griffin,Biography & Autobiography,208.0
+645,A Case of Need,Michael Crichton,Fiction,416.0
+646,A Whole Lotta Love,Donna Hill;Brenda Jackson;Monica Jackson;Francis Ray,Fiction,384.0
+647,Night Over Water,Ken Follett,FICTION,448.0
+648,On Wings of Eagles,Ken Follett,History,416.0
+649,The Innocent,Harlan Coben,Fiction,503.0
+650,Black Sunday,Thomas Harris,Fiction,311.0
+651,A Certain Justice,John T. Lescroart,Fiction,624.0
+652,The Last Templar,Raymond Khoury,Fiction,523.0
+653,Dealing in Futures,Joe Haldeman,Fiction,352.0
+654,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson;Vladimir Vladimirovich Nabokov,Fiction,128.0
+655,Arrowsmith,Sinclair Lewis,Fiction,428.0
+656,The Odyssey,Homer;George Herbert Palmer,Poetry,239.0
+657,Great Dialogues of Plato,Plato,Philosophy,528.0
+658,The Origin of Species,Charles Darwin,Science,1024.0
+659,The Travels of Marco Polo,Marco Polo;Milton Rugoff;Howard Mittelmark,Biography & Autobiography,297.0
+660,Around the World in Eighty Days,Jules Verne,Fiction,236.0
+661,David Copperfield,Charles Dickens,Fiction,928.0
+662,A Portrait of the Artist as a Young Man,James Joyce,Fiction,256.0
+663,Atlas Shrugged,Ayn Rand,Fiction,1176.0
+664,Stephen King's Creepshow,Stephen King;Berni Wrightson;Michele Wrightson,Fiction,66.0
+665,Song of Solomon,Toni Morrison,Fiction,337.0
+666,Zombie,Joyce Carol Oates,Fiction,181.0
+667,Something to Declare,Julia Alvarez,Literary Criticism,300.0
+668,Anthem,Ayn Rand,Fiction,105.0
+669,The Feeling Good Handbook,David D. Burns,Psychology,729.0
+670,Beauty's Punishment,A. N. Roquelaure;Anne Rice,Fiction,233.0
+671,The Bluest Eye,Toni Morrison,Fiction,216.0
+672,We Were the Mulvaneys,Joyce Carol Oates,Fiction,454.0
+673,1984,George Orwell,London (England),339.0
+674,The Republic of Plato,Allan Bloom,Philosophy,487.0
+675,The Philosophy of History,Georg Wilhelm Friedrich Hegel;J. Sibree,Philosophy,480.0
+676,Candide,Voltaire,Fiction,129.0
+677,The Gift of the Magi and Other Short Stories,O. Henry,Fiction,96.0
+678,The Canterville Ghost and Other Stories,Oscar Wilde,Fiction,120.0
+679,The House of Mirth,Edith Wharton,Fiction,348.0
+680,The Pilgrim's Progress,John Bunyan,Fiction,324.0
+681,Babbitt,Sinclair Lewis,Fiction,320.0
+682,The Worm Ouroboros,E. R. Eddison;Keith Henderson,Fiction,446.0
+683,Quicksand,Nella Larsen,Fiction,125.0
+684,Call of the Moon,Ronda Thompson,Fiction,352.0
+685,The Aviators,W. E. B. Griffin,Fiction,464.0
+686,The Valentine Legacy,Catherine Coulter,Fiction,406.0
+687,Cold Blood,Lynda La Plante,Fiction,462.0
+688,Flying Finish,Dick Francis,Fiction,276.0
+689,Bite,Charlaine Harris;MaryJanice Davidson;Angela Knight;Vickie Taylor,Fiction,297.0
+690,Complete Poems,Edgar Allan Poe,Poetry,128.0
+691,The Crossing,Cormac McCarthy,"Mystery,Mystery,Crime,Thriller,Cultural,Australia,Fiction",425.0
+692,The Secret Garden,Martha Hailey Dubose;Frances Hodgson Burnett;Martha Hailey,Juvenile Fiction,160.0
+693,Three complete novels,Stephen King,Fiction,1096.0
+694,Evolution and the Theory of Games,John Maynard Smith,Science,234.0
+695,The Winter's Tale,William Shakespeare;Susan Snyder;Deborah T. Curren-Aquino,Drama,279.0
+696,Reading Greek Tragedy,Simon Goldhill;Professor of Greek Literature and Culture and Fellow and Director of Studies in Classics Simon Goldhill,Drama,302.0
+697,The Illustrated Man,Ray Bradbury,"Science fiction, American",186.0
+698,Strata,Terry Pratchett,English fiction,285.0
+699,Moving Pictures,Terry Pratchett,Discworld (Imaginary place),396.0
+700,Vox,Paul Stewart;Chris Riddell,Children's stories,400.0
+701,Past Mortem,Ben Elton,Fiction,464.0
+702,The Hotel New Hampshire,John Irving,Fiction,520.0
+703,Sure of You,Armistead Maupin,City and town life,284.0
+704,Dead Famous,Ben Elton,Fiction,382.0
+705,All Fall Down,John Saul,Fiction,329.0
+706,The Complete Short Stories of Mark Twain,Mark Twain,Fiction,848.0
+707,The Broken Gun,Louis L'Amour,Fiction,192.0
+708,Magician,Raymond E. Feist,Fiction,499.0
+709,The Road to Gandolfo,Robert Ludlum,Fiction,320.0
+710,The Delta Star,Joseph Wambaugh,Fiction,291.0
+711,Starting Over,Francine Pascal,Juvenile Fiction,153.0
+712,Double Love,Francine Pascal;Kate William,Juvenile Fiction,182.0
+713,Secrets,Francine Pascal;Kate William,Juvenile Fiction,118.0
+714,The Angry Hills,Leon Uris,Fiction,245.0
+715,22 Indigo Place,Sandra Brown,Fiction,200.0
+716,Snow Crash,Neal Stephenson,Fiction,438.0
+717,Odd Thomas,Dean Ray Koontz,FICTION,446.0
+718,True Blue,Daniel Topolski;Patrick Robinson,London (England),320.0
+719,Last Wish,Francine Pascal;Kate William,Sweet Valley (Imaginary place),231.0
+720,The Hollow Man,Dan Simmons,Fiction,342.0
+721,A Kiss Before Dying,Ira Levin,Fiction,242.0
+722,Adam's Fall,Sandra Brown,Fiction,208.0
+723,Heaven's Price,Sandra Brown,Fiction,240.0
+724,The Third Victim,Lisa Gardner,Fiction,384.0
+725,Iron Fist,Aaron Allston,Fiction,320.0
+726,A Kiss to Remember,Teresa Medeiros,Fiction,353.0
+727,Haunted,Kelley Armstrong,Fiction,495.0
+728,Forever Odd,Dean Ray Koontz,Fiction,364.0
+729,Public Secrets,Nora Roberts,Fiction,481.0
+730,Lines and Shadows,Joseph Wambaugh,True Crime,416.0
+731,The Universe in a Nutshell,Stephen W. Hawking;STEPHEN W AUTOR HAWKING,Science,216.0
+732,"I, Robot",Harlan Ellison;Isaac Asimov,Fiction,288.0
+733,The Surgeon,Tess Gerritsen,Boston (Mass.),416.0
+734,Light,M. John Harrison,Fiction,264.0
+735,The Real Thing,Tom Stoppard,Drama,112.0
+736,Immortality,Milan Kundera,Czech fiction,400.0
+737,The Complete Herbal Handbook for the Dog and Cat,Juliette de Baïracli Levy,Pets,368.0
+738,Tales from Ovid,Ovid;Ted Hughes,Latin poetry,264.0
+739,Famous Last Words,Timothy Findley,Prisoners of war,416.0
+740,Finders Keepers,Seamus Heaney,Englisch - Geschichte - Lyrik - Aufsatzsammlung,432.0
+741,Finnegans Wake,James Joyce,Dreams,628.0
+742,Breakfast of Champions,Kurt Vonnegut,Science fiction,106.0
+743,Eric,Terry Pratchett,Fantasy fiction,126.0
+744,Soul Music,Terry Pratchett,Discworld (Imaginary place),424.0
+745,The Last Hero,Terry Pratchett,Discworld (Imaginary place),160.0
+746,Dark Lord of Derkholm,Diana Wynne Jones,Fantasy fiction,328.0
+747,Grendel,John Gardner,Beowulf,144.0
+748,The Body,Stephen King;Robin Waterfield,Friendship in adolescence,80.0
+749,The Master of Whitestorm,Janny Wurts,Fantasy fiction,413.0
+750,The witches,Roald Dahl,Juvenile Nonfiction,208.0
+751,The Trolley Car Family,Eleanor Clymer,Family life,256.0
+752,Radio Fifth Grade,Gordon Korman,Juvenile Fiction,192.0
+753,Avalanche,Arthur Roth,Adult education,144.0
+754,The Stranger,Caroline B. Cooney,Horror stories.,198.0
+755,On the Banks of Plum Creek,Laura Ingalls Wilder,Family,339.0
+756,BSD Hacks,Dru Lavigne,Computers,450.0
+757,MySQL Cookbook,Paul DuBois,Computers,980.0
+758,CSS Cookbook,Christopher Schmitt,Computers,516.0
+759,Full House,Stephen Jay Gould,Science,256.0
+760,The Princess Diaries,Meg Cabot,Juvenile Fiction,283.0
+761,The Two Towers,John Ronald Reuel Tolkien,Fiction,413.0
+762,Baumgartner's Bombay,Anita Desai,Fiction,240.0
+763,The 42nd Parallel,John Dos Passos,Fiction,326.0
+764,Clear Light of Day,Anita Desai,Fiction,183.0
+765,The Heart is a Lonely Hunter,Carson McCullers,Fiction,359.0
+766,Silent Spring,Rachel Carson,Nature,378.0
+767,The Chosen,Jerome Karabel,Education,736.0
+768,On Certainty,Ludwig Wittgenstein,Philosophy,114.0
+769,The Roald Dahl Treasury,Roald Dahl,Juvenile Fiction,448.0
+770,Spycatcher,Peter Wright,Espionage,392.0
+771,Private Parts,Howard Stern;John D. Simons,Biography & Autobiography,660.0
+772,My Gal Sunday,Mary Higgins Clark,Fiction,206.0
+773,The Tenth Man,Graham Greene,Fiction,160.0
+774,How to Stop Worrying and Start Living,Dale Carnegie,Psychology,358.0
+775,Carrie,Stephen King,Fiction,253.0
+776,The Girl Who Loved Tom Gordon,Stephen King,Fiction,264.0
+777,Sharp Edges,Jayne Ann Krentz,Fiction,368.0
+778,Harvest,Tess Gerritsen,Fiction,368.0
+779,Wind Child,Nancy Harding,Fiction,331.0
+780,Cyclops,Clive Cussler,Fiction,473.0
+781,The Color Purple,Alice Walker,Fiction,295.0
+782,Tales of Power,Carlos Castaneda,Fiction,304.0
+783,Swan Song,Robert McCammon,Fiction,956.0
+784,Mystery Walk,Robert R. McCammon,Fiction,432.0
+785,The Hidden Persuaders,Vance Packard,Advertising,242.0
+786,In the Name of Love,Ann Rule,Literary Criticism,414.0
+787,The Good Earth,Pearl S. Buck,Fiction,357.0
+788,Forever After,Roger Zelazny,Fiction,291.0
+789,Ethics and the Limits of Philosophy,Bernard Williams,Philosophy,230.0
+790,The Art of Shakespeare's Sonnets,Helen Vendler,Literary Criticism,692.0
+791,Wittgenstein on Rules and Private Language,Saul A. Kripke,Philosophy,160.0
+792,De officiis,Marcus Tullius Cicero;Walter Miller,Fiction,448.0
+793,Metamorphoses,Publius Ovidius Naso (Dichter),"Mythology, Classical",496.0
+794,Gift from the Sea,,Biography & Autobiography,132.0
+795,Crime and Punishment,Fyodor Dostoyevsky,Fiction,564.0
+796,Selected Short Stories of William Faulkner,William Faulkner,Fiction,320.0
+797,Swann's Way,Marcel Proust;Elizabeth Dalton,Fiction,466.0
+798,The Sound and the Fury,William Faulkner,Fiction,368.0
+799,The Red and the Black,Stendhal,Fiction,560.0
+800,Darkness Visible,William Styron,Biography & Autobiography,96.0
+801,The Fall,Albert Camus,Fiction,147.0
+802,Hiroshima,John Hersey,History,152.0
+803,Gideon's Trumpet,Anthony Lewis,History,288.0
+804,Invisible Man,Ralph Ellison,African American men,581.0
+805,Cathedral,Raymond Carver,Fiction,230.0
+806,Strong Opinions,Vladimir Vladimirovich Nabokov,Literary Collections,368.0
+807,Mary,Владимир Владимирович Набоков,Fiction,114.0
+808,The Defense,Vladimir Vladimirovich Nabokov;Michael Scammell,Fiction,256.0
+809,The Eye,Владимир Владимирович Набоков,Fiction,104.0
+810,Chilly Scenes of Winter,Ann Beattie,Fiction,288.0
+811,The Rebel,Albert Camus,Philosophy,320.0
+812,Hype and Glory,William Goldman,Performing Arts,306.0
+813,Dispatches,Michael Herr,History,260.0
+814,Athena,John Banville,Fiction,240.0
+815,The Radicalism of the American Revolution,Gordon S. Wood,History,447.0
+816,Mortals,Norman Rush,Fiction,736.0
+817,The grass harp,Truman Capote,Fiction,272.0
+818,Sanctuary,William Faulkner,Fiction,317.0
+819,The Death of Virgil,Hermann Broch,Fiction,496.0
+820,The Son Avenger,Sigrid Undset,Fiction,288.0
+821,Snow Country,Yasunari Kawabata,Fiction,175.0
+822,Thousand Cranes,川端康成,Fiction,147.0
+823,The Camera My Mother Gave Me,Susanna Kaysen,Biography & Autobiography,149.0
+824,Letting Go,Philip Roth,Fiction,630.0
+825,Selected Stories,Andre Dubus,Fiction,476.0
+826,In the Hand of the Goddess,Tamora Pierce,Juvenile Fiction,209.0
+827,The Berenstain Bears and the Blame Game,Stan Berenstain;Jan Berenstain,Juvenile Fiction,32.0
+828,Leaves of Grass,Walt Whitman,American poetry,155.0
+829,The Garden of Eden,Ernest Hemingway,Fiction,248.0
+830,John Adams,David McCullough,Biography & Autobiography,751.0
+831,The Promise of Rest,Reynolds Price,Fiction,368.0
+832,Good as Gold,Joseph Heller,Fiction,445.0
+833,Tolkien,Joseph Pearce,Biography & Autobiography,256.0
+834,God Knows,Joseph Heller,Fiction,368.0
+835,On Death and Dying,Elisabeth Kübler-Ross,Family & Relationships,288.0
+836,Across the River and Into the Trees,Ernest Hemingway,Fiction,272.0
+837,The Children's Book of America,William J. Bennett;Michael Hague,Fiction,112.0
+838,The Secret Diary of Anne Boleyn,Robin Maxwell,Fiction,281.0
+839,The Last Temptation of Christ,Nikos Kazantzakis,Fiction,506.0
+840,Shadow,Bob Woodward,History,608.0
+841,Merde!,Genevieve,Foreign Language Study,112.0
+842,To Have and Have Not,Ernest Hemingway,Fiction,176.0
+843,Picture This,Joseph Heller,Fiction,352.0
+844,The Merlin Trilogy,Mary Stewart,Fiction,928.0
+845,The Twelve Dancing Princesses,Marianna Mayer,Juvenile Fiction,40.0
+846,Love Poems,Nikki Giovanni,Poetry,96.0
+847,Naked Pictures of Famous People,Jon Stewart,Humor,164.0
+848,The Bears on Hemlock Mountain,Alice Dalgliesh,Juvenile Fiction,64.0
+849,The Fourth of July Story,Alice Dalgliesh,Juvenile Nonfiction,32.0
+850,A Child's Garden of Verses,Robert Louis Stevenson,Juvenile Fiction,67.0
+851,Poppy,Avi,Children's stories,163.0
+852,The Storm,Cynthia Rylant,Juvenile Fiction,80.0
+853,The Octopus,Cynthia Rylant;Preston McDaniels,Juvenile Fiction,64.0
+854,Star Bright,Cathy Hapka,Juvenile Nonfiction,160.0
+855,Shamanism,Mircea Eliade,"Body, Mind & Spirit",610.0
+856,Sisters,Charles Higham,Biography & Autobiography,257.0
+857,The Egg and I,Betty MacDonald,Farm life,288.0
+858,America,Jon Stewart;Ben Karlin;David Javerbaum,Democracy,228.0
+859,Banker,Dick Francis,Fiction,288.0
+860,Maisie Dobbs,Jacqueline Winspear,Detective and mystery stories,292.0
+861,Birds of a Feather,Jacqueline Winspear,Children of the rich,307.0
+862,Mutant Message from Forever,Marlo Morgan,Aboriginal Australians,323.0
+863,The Tale of Jemima Puddle-Duck,Beatrix Potter,Juvenile Nonfiction,57.0
+864,Exit to Eden,Anne Rampling;Anne Rice,Photographers,336.0
+865,Loving God with All Your Mind,Elizabeth George,Religion,276.0
+866,All the Pretty Horses,Cormac McCarthy,Americans,302.0
+867,The Complete Calvin and Hobbes,Bill Watterson,Comics & Graphic Novels,1456.0
+868,The Other Boleyn Girl,Philippa Gregory,Fiction,661.0
+869,Man and Wife,Tony Parsons,Fiction,352.0
+870,A Separate Peace,John Knowles,Fiction,208.0
+871,Plan of Attack,Bob Woodward,Political Science,480.0
+872,Benjamin Franklin,Walter Isaacson,Biography & Autobiography,586.0
+873,The Boleyn Inheritance,Philippa Gregory,Fiction,518.0
+874,How to Win Friends and Influence People for Teen Girls,Donna Dale Carnegie,Self-Help,208.0
+875,Diary of a Mistress,Miasha,Fiction,182.0
+876,"Look Homeward, Angel",Thomas Wolfe,Fiction,644.0
+877,The Inhuman Condition,Clive Barker,Fiction,180.0
+878,Music & Silence,Rose Tremain,Fiction,512.0
+879,Salem Falls,Jodi Picoult,Fiction,434.0
+880,Black Cat,V. C. Andrews,Fiction,375.0
+881,Last Man Standing,David Baldacci,English fiction,548.0
+882,March Upcountry,David Weber;John Ringo,Fiction,608.0
+883,Roughing It,Mark Twain,Fiction,560.0
+884,Shock Wave,Clive Cussler,Adventure stories,537.0
+885,Band of Brothers,Stephen E. Ambrose,History,432.0
+886,Pendulum,Amir D. Aczel,Biography & Autobiography,288.0
+887,The Price of Pleasure,Kresley Cole,Fiction,353.0
+888,Homecoming,Christie Golden,Fiction,262.0
+889,Paradise,Judith McNaught,Fiction,709.0
+890,Romeo and Juliet,William Shakespeare;Barbara A. Mowat;Paul Werstine,Drama,281.0
+891,Othello,William Shakespeare,Drama,314.0
+892,The Count of Monte Cristo,Alexandre Dumas;Margaret Brantley,Fiction,620.0
+893,My Antonia,Willa Cather;Alyssa Harad,Fiction,314.0
+894,The Notebooks of Lazarus Long,Robert A. Heinlein,Fiction,56.0
+895,Twisted,Jeffery Deaver,Fiction,480.0
+896,No Place Like Home,Mary Higgins Clark,Abused wives,472.0
+897,Tinker,Wen Spencer,Fiction,448.0
+898,Sir Gawain and the Green Knight,Selina Hastings,Arthurian romances,29.0
+899,Sociology,Anthony Giddens;Simon Griffiths,Social Science,1000.0
+900,Neverwhere,Neil Gaiman,Businessmen,372.0
+901,Deep Waters,Barbara Nadel,Fiction,448.0
+902,Two's Company,Jill Mansell,Fiction,448.0
+903,Solo,Jill Mansell,Chick lit,421.0
+904,Ransom,Jay McInerney,Kyoto (Japan),279.0
+905,Pilgermann,Russell Hoban,Crusades,240.0
+906,The Little Friend,Donna Tartt,Brothers,555.0
+907,Space,James Albert Michener,"Science Fiction,Media Tie In,Fiction",815.0
+908,Spencerville,Nelson DeMille,Abused wives,564.0
+909,The Waiting Sands,Susan Howatch,Fiction,192.0
+910,The Lost World,Gail Herman,Children's stories,448.0
+911,The Dain Curse,Dashiell Hammett,Continental Op (Fictitious character),256.0
+912,Red Harvest,Dashiell Hammett,Continental Op (Fictitious character),224.0
+913,Beasts,Joyce Carol Oates,College stories,138.0
+914,The Postman Always Rings Twice,James M. Cain,Adultery,116.0
+915,The Maltese Falcon,Dashiell Hammett,Crime investigations,213.0
+916,Arthur and the Lost Kingdoms,Alistair Moffat,Great Britain,282.0
+917,Full Speed,Janet Evanovich;Charlotte Hughes,"Holt, Max (Fictitious character)",344.0
+918,Girl in Hyacinth Blue,Susan Vreeland,American fiction,180.0
+919,Stone of Farewell,Tad Williams,Fiction,608.0
+920,Spain,"DK Publishing, Inc",Travel,720.0
+921,Greece,Marc Dubin,Travel,352.0
+922,Bad Boys in Black Tie,Lori Foster;Erin McCarthy;Morgan Leigh,Fiction,278.0
+923,Corvette,Randy Leffingwell,Transportation,384.0
+924,The Dragon's Eye,Dugald Steer,Juvenile Fiction,221.0
+925,Beauty and the Beast,"Samantha Easton,Ruth Sanderson",Juvenile Fiction,64.0
+926,CliffsComplete Hamlet,William Shakespeare,Drama,240.0
+927,CliffsNotes on Steinbeck's The Grapes of Wrath,Kelly McGrath Vlcek,Literary Criticism,112.0
+928,Children of the Mind,Orson Scott Card,Fiction,370.0
+929,The Dragon Reborn,Robert Jordan,Fiction,624.0
+930,Treason,Orson Scott Card,Fiction,288.0
+931,Glass Soup,Jonathan Carroll,Fiction,320.0
+932,Children of the Night,Mercedes Lackey,Fiction,320.0
+933,Sarah,Orson Scott Card,Fiction,341.0
+934,The Santaroga Barrier,Frank Herbert,Fiction,256.0
+935,The Dosadi Experiment,Frank Herbert,Fiction,320.0
+936,Phantom,Terry Goodkind,Fiction,673.0
+937,Hawkes Harbor,S. E. Hinton,Fiction,289.0
+938,Wolfskin,Juliet Marillier,Fiction,544.0
+939,Among the Dolls,William Sleator,Juvenile Fiction,96.0
+940,Reliquary,Douglas Preston;Preston Douglas;Lincoln Child,Fiction,464.0
+941,Hidden Talents,David Lubar,Juvenile Fiction,240.0
+942,Q,Quincy Jones,Biography & Autobiography,432.0
+943,Bookends,Jane Green,Fiction,368.0
+944,Inconceivable,Julia Indichova,Health & Fitness,224.0
+945,Babyville,Jane Green,Fiction,464.0
+946,To Have and to Hold,Jane Green,Fiction,352.0
+947,La Cucina Di Lidia,Lidia Bastianich;Jay Jacobs,Cooking,288.0
+948,The Female Brain,Louann Brizendine,Psychology,304.0
+949,The View from Castle Rock,Alice Munro,Families,368.0
+950,Black Ice,Anne Stuart,Fiction,377.0
+951,Fantastic Four,Mark Waid,Heroes,264.0
+952,Searching for God Knows What,Donald Miller,Religion,246.0
+953,Thicker Than Water,P. J. Parrish,Fiction,380.0
+954,The Life of Sir Arthur Conan Doyle,John Dickson Carr,Biography & Autobiography,320.0
+955,"If I Have a Wicked Stepmother, Where's My Prince?",Melissa Kantor,Juvenile Fiction,283.0
+956,Be More Chill,Ned Vizzini,Juvenile Fiction,287.0
+957,Summerland,Michael Chabon,Juvenile Fiction,500.0
+958,Disney's Little Einsteins: Butterfly Suits,Disney Book Group;Marcy Kelman,Juvenile Fiction,32.0
+959,Love and War,Margaret Weis;Tracy Hickman,Fiction,368.0
+960,Flowers,David Burnie,Juvenile Nonfiction,64.0
+961,Story of Philosophy,Bryan Magee,Philosophy,240.0
+962,Silence,Shūsaku Endō,Fiction,201.0
+963,The Malady of Death,Marguerite Duras,Fiction,60.0
+964,The Passion,Jeanette Winterson,Fiction,176.0
+965,Cold Mountain,Charles Frazier,Fiction,356.0
+966,Tropic of Capricorn,Henry Miller,Fiction,348.0
+967,Once Upon a Cool Motorcycle Dude,Kevin O'Malley,Juvenile Fiction,32.0
+968,The Pilgrim's Regress,C. S. Lewis,Religion,219.0
+969,Horse Heaven,Jane Smiley,Fiction,640.0
+970,Escape from Freedom,Erich Fromm,Political Science,301.0
+971,Clown,Quentin Blake,Juvenile Fiction,32.0
+972,The High King,Lloyd Alexander,Juvenile Fiction,253.0
+973,The Origins of Totalitarianism,Hannah Arendt,Philosophy,674.0
+974,The Anatomy Coloring Book,Wynn Kapit;Lawrence M. Elson,Science,400.0
+975,Existentialism and Human Emotions,Jean-Paul Sartre,Philosophy,96.0
+976,Wizard,Marc J. Seifer,Biography & Autobiography,542.0
+977,Man's Search for Meaning,Viktor Emil Frankl,Biography & Autobiography,165.0
+978,The Poetics of Space,Gaston Bachelard,Philosophy,282.0
+979,Babar's World Tour,Laurent de Brunhoff,Juvenile Fiction,48.0
+980,The Berlin Stories,Christopher Isherwood,Fiction,401.0
+981,The Collected Poems of Wilfred Owen,Wilfred Owen,Poetry,192.0
+982,Selected Poems,Octavio Paz;G. Aroul,Poetry,160.0
+983,Borges and the Eternal Orangutans,Luís Fernando Veríssimo;Margaret Jull Costa,Fiction,135.0
+984,Red Prophet,Orson Scott Card,Fiction,311.0
+985,Orion,Ben Bova,Fiction,432.0
+986,Shadow of the Hegemon,Orson Scott Card,Fiction,451.0
+987,Islam,Karen Armstrong,Religion,230.0
+988,King Solomon's Mines,Henry Rider Haggard;James Danly,Fiction,264.0
+989,Kim,Rudyard Kipling,Fiction,306.0
+990,The Ox-Bow Incident,Walter Van Tilburg Clark,Fiction,247.0
+991,Marilyn Monroe,Donald Spoto,Biography & Autobiography,752.0
+992,CliffsNotes on Hansberry's A Raisin in the Sun,Rosetta James,Literary Criticism,80.0
+993,A Streetcar Named Desire,Tennessee Williams,Drama,107.0
+994,Gunslinger,Edward Dorn,Fiction,224.0
+995,In the Name of Jesus,Henri J. M. Nouwen,Religion,120.0
+996,Save the Date,Jason King;Donna Freitas,Religion,191.0
+997,The Calvin and Hobbes Tenth Anniversary Book,Bill Watterson,Humor,208.0
+998,Armageddon,Tim F. LaHaye;Jerry B. Jenkins,Fiction,395.0
+999,"Sit, Walk, Stand",Watchman Nee,Religion,80.0
+1000,Kingdom Come,Tim F. LaHaye;Jerry B. Jenkins,Fiction,356.0
+1001,The Nightmare Chronicles,Douglas Clegg,Fiction,360.0
+1002,Mischief,Douglas Clegg,Fiction,359.0
+1003,Bliss,Lynsay Sands,Fiction,394.0
+1004,Nightmare House,Douglas Clegg,Fiction,340.0
+1005,The Chase,Lynsay Sands,Fiction,374.0
+1006,The Attraction,Douglas Clegg,Fiction,324.0
+1007,The Shakespeare Plays: Romeo & Juliet,McGraw-Hill Education,Juvenile Nonfiction,242.0
+1008,Dissecting Marilyn Manson,Gavin Baddeley,Music,192.0
+1009,Full Circle,Luis Sepúlveda;Chris Andrews,Travel,192.0
+1010,Complete Works,Plato,Fiction,1838.0
+1011,The Peloponnesian War,Thucydides;Steven Lattimore,History,530.0
+1012,Aeneid,Virgil,Aeneas (Legendary character),340.0
+1013,Early Candlelight,Maud Hart Lovelace,Fiction,342.0
+1014,Mockingbird Wish Me Luck,Charles Bukowski,Fiction,160.0
+1015,Understanding Physics,Isaac Asimov,Physics,833.0
+1016,The Secret of Santa Vittoria,Robert Crichton,Fiction,416.0
+1017,Fire in the Sky,Jo Clayton,Fiction,352.0
+1018,Storm Warning,Mercedes Lackey,Fiction,428.0
+1019,Alberic the Wise,Norton Juster,European fiction,24.0
+1020,Hard Drive,James Wallace;Jim Erickson,Business & Economics,426.0
+1021,The Confessions of St. Augustine,Saint Augustine (Bishop of Hippo.);Saint Augustine of Hippo;Joseph Mary Leleu,Biography & Autobiography,448.0
+1022,Alcoholics Anonymous,Anonymous,Self-Help,576.0
+1023,Typee,Herman Melville,Fiction,1333.0
+1024,The Visual Display of Quantitative Information,Edward R. Tufte,Mathematics,197.0
+1025,Graphic Storytelling,Will Eisner,Literary Criticism,164.0
+1026,The Mind Parasites,Colin Wilson,Fiction,240.0
+1027,Behind Closed Doors,Johanna Rothman;Esther Derby,Computers,176.0
+1028,A Fine Balance,Rohinton Mistry,Fiction,603.0
+1029,Before You Know Kindness,Chris Bohjalian,Fiction,429.0
+1030,Miami Blues,Charles Ray Willeford,Fiction,191.0
+1031,A Year at the Races,Jane Smiley,Sports & Recreation,304.0
+1032,The Dew Breaker,Edwidge Danticat,Fiction,244.0
+1033,Strange Pilgrims,Gabriel García Márquez,Fiction,208.0
+1034,The No. 1 Ladies' Detective Agency,Alexander McCall Smith,Fiction,235.0
+1035,My Life in France,Julia Child;Alex Prud'homme,Biography & Autobiography,302.0
+1036,Half of a Yellow Sun,Chimamanda Ngozi Adichie,Fiction,433.0
+1037,Imperial Life in the Emerald City,Rajiv Chandrasekaran,History,320.0
+1038,See No Evil,Allison Brennan,Political Science,320.0
+1039,Eat This Book,Tyler Florence,Cooking,287.0
+1040,The Secret Society of Demolition Writers,Aimee Bender;Marc Parent,Fiction,244.0
+1041,Collected Poems,Chinua Achebe,Poetry,84.0
+1042,McSweeney's Enchanted Chamber of Astonishing Stories,Michael Chabon;Michael Mignola,Fiction,328.0
+1043,Company,Max Barry,Fiction,338.0
+1044,The Plot Against America,Philip Roth,Fiction,391.0
+1045,Mulliner Nights,Pelham Grenville Wodehouse,Fiction,240.0
+1046,The Finer Points of Sausage Dogs,Alexander McCall Smith,Fiction,128.0
+1047,The Promise,Chaïm Potok,Fiction,368.0
+1048,The Eiger Sanction,Trevanian,Fiction,336.0
+1049,Jamie's Dinners,Jamie Oliver,Cooking,336.0
+1050,Treasure Island,Robert Louis Stevenson,Juvenile Fiction,213.0
+1051,The Adventures of Huckleberry Finn,Mark Twain,Juvenile Fiction,305.0
+1052,Christian Theology,Alister E. McGrath,Religion,534.0
+1053,Den of Thieves,Julia Golding,Adventure stories,416.0
+1054,Spire,William Golding,Fiction,135.0
+1055,Flatland,Edwin Abbott Abbott,Fiction,100.0
+1056,Shaken,Jerry B. Jenkins;Tim F. LaHaye;Chris Fabry,Juvenile Fiction,384.0
+1057,"Have Space Suit, Will Travel",Robert A. Heinlein,Fiction,276.0
+1058,Tunnel in the Sky,Robert A. Heinlein,Fiction,262.0
+1059,Citizen of the Galaxy,Robert A. Heinlein,Fiction,288.0
+1060,Where Are the Children?,Mary Higgins Clark,Fiction,304.0
+1061,Playing Easy to Get,Kresley Cole;Sherrilyn Kenyon;Jaid Black,Fiction,352.0
+1062,Sahara,Clive Cussler,Fiction,576.0
+1063,Oath of Swords,David Weber,Fiction,576.0
+1064,Deception Point,Dan Brown,Fiction,736.0
+1065,Amelia's Notebook,Marissa Moss,Juvenile Fiction,40.0
+1066,Z for Zachariah,Robert C. O'Brien,Juvenile Fiction,250.0
+1067,The Art of Howl's Moving Castle,Hayao Miyazaki,Performing Arts,256.0
+1068,Lord Jim,Joseph Conrad,Fiction,455.0
+1069,Alice's Adventures in Wonderland,Lewis Carroll,Juvenile Fiction,356.0
+1070,The Wedding Night,Jayne Ann Krentz,Fiction,256.0
+1071,Dancing on Air,Frances Oliver,Fiction,157.0
+1072,Terry,Douglas Coupland,Biography & Autobiography,176.0
+1073,Nine Coaches Waiting,Mary Stewart;Sandra Brown,Fiction,342.0
+1074,The Winthrop Woman,Anya Seton,Fiction,588.0
+1075,Keeping Faith,Jimmy Carter,Biography & Autobiography,640.0
+1076,Smart Love,Martha Heineman Pieper;William Joseph Pieper,Family & Relationships,272.0
+1077,Dream Country,Neil Gaiman;Kelley Jones;Charles Vess,Comics & Graphic Novels,111.0
+1078,Death,Neil Gaiman,Death (Fictitious character : Gaiman),104.0
+1079,The Cure,Warren Ellis,"Comic books, strips, etc",144.0
+1080,Happy Endings,Mimi Dietrich,Crafts & Hobbies,80.0
+1081,Letters,John Barth,Fiction,772.0
+1082,Point Counter Point,Aldous Huxley,Fiction,432.0
+1083,The Last Days,Raymond Queneau;Barbara Wright;Vivian Kogan,Fiction,250.0
+1084,The Sharpshooter Blues,Lewis Nordan,Fiction,398.0
+1085,After Many a Summer Dies the Swan,Aldous Huxley,Fiction,368.0
+1086,Things,Georges Perec;David Bellos,Comics & Graphic Novels,221.0
+1087,The Woman in Black,Susan Hill,Juvenile Fiction,138.0
+1088,Angels,Jacqueline Carey,Religion,128.0
+1089,Murder in the Bastille,Cara Black,Fiction,276.0
+1090,Creatures of the Night,Neil Gaiman;Michael Zulli;Todd Klein,Comics & Graphic Novels,46.0
+1091,Steppenwolf,Victor Skrebneski;Richard Christiansen,Performing Arts,144.0
+1092,The Art of Happiness,Dalai Lama XIV Bstan-ʼdzin-rgya-mtsho;Howard C. Cutler,Religion,336.0
+1093,Desolation Angels,Jack Kerouac,Fiction,432.0
+1094,The Color of Water,James McBride,Biography & Autobiography,291.0
+1095,Awakening at Midlife,Kathleen A. Brehony,Psychology,384.0
+1096,Still Here,Ram Dass,Family & Relationships,224.0
+1097,The Gift,Echo L. Bodine,"Body, Mind & Spirit",160.0
+1098,The Beatles Illustrated Lyrics,Alan Aldridge;Beatles,Music,272.0
+1099,The A.B.C. Murders,Agatha Christie,Fiction,252.0
+1100,The Body in the Library,Agatha Christie,Fiction,191.0
+1101,The Murder of Roger Ackroyd,Agatha Christie,Fiction,288.0
+1102,Death on the Nile,Agatha Christie,Fiction,351.0
+1103,The Mystery of the Blue Train,Agatha Christie,Fiction,317.0
+1104,Mangoes & Curry Leaves,Ann Vanderhoof,Cooking,416.0
+1105,Glass House,Toshio Nakamura,Architecture,256.0
+1106,Prophet,Frank E. Peretti,Fiction,416.0
+1107,The Best Defense,Robert Kirkman;Charlie Adlard;Cliff Rathburn,Comics & Graphic Novels,136.0
+1108,Agnes Grey,Anne Brontë,England,190.0
+1109,Think and Grow Rich,Napoleon Hill;Arthur R. Pell,Business & Economics,320.0
+1110,The Arabian Nightmare,Robert Irwin,Fiction,282.0
+1111,Laughing Gas,Pelham Grenville Wodehouse,Fiction,286.0
+1112,Spring Fever,P.G. Wodehouse,Fiction,276.0
+1113,The Lure of the Basilisk,Lawrence Watt-Evans,Fiction,208.0
+1114,This Side of Paradise,Steven L. Layne,Juvenile Fiction,224.0
+1115,The Tenants of Moonbloom,Edward Lewis Wallant,Fiction,264.0
+1116,Mistress Masham's Repose,T. H. White;Fritz Eichenberg,Juvenile Fiction,260.0
+1117,The Art of War,Sun-Tzu;Sunzi,Philosophy,273.0
+1118,Complete Guide to OneNote,Scott Zimmerman,Computers,412.0
+1119,Bull Halsey,Elmer Belmont Potter,Biography & Autobiography,440.0
+1120,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Stories,Robert Louis Stevenson,Fiction,320.0
+1121,Hard Candy,Angela Knight;Sheri Gilmore;Morgan Hawke,Fiction,350.0
+1122,London,Martin Hughes;Sarah Johnstone;Tom Masters,Travel,480.0
+1123,Planet of the Apes,Ian Edginton;Paco Medina;Adrian Sibar,Human-animal relationships,72.0
+1124,The Corrections,Jonathan Franzen,Aged women,653.0
+1125,Never Call Retreat,Bruce Catton;Everette Beach Long,History,558.0
+1126,The Coming Fury,Bruce Catton;Everette Beach Long,History,568.0
+1127,The Complete Short Stories of H.G. Wells,Herbert George Wells;John R. Hammond,Fiction,864.0
+1128,Jitterbug Perfume,Tom Robbins,Fiction,342.0
+1129,The History of Tom Jones,Henry Fielding,Fiction,734.0
+1130,Moll Flanders,Daniel Defoe,Fiction,339.0
+1131,Cyrano de Bergerac,Edmond Rostand,Drama,192.0
+1132,Abandonment,Kate Atkinson,Drama,96.0
+1133,The Elfstones of Shannara,Terry Brooks,Elves,469.0
+1134,Use of Weapons,Iain Banks,Science fiction,411.0
+1135,Magic Kingdom for Sale,Terry Brooks,Fantasy fiction,324.0
+1136,The Life and Games of Mikhail Tal,Mihails Tāls,Biography & Autobiography,496.0
+1137,I Am Legend,Richard Matheson,Horror tales,160.0
+1138,Stand on Zanzibar,John Brunner,Fiction,672.0
+1139,The Gods Themselves,Isaac Asimov,Science fiction,288.0
+1140,The Year of the Death of Ricardo Reis,José Saramago,Fiction,384.0
+1141,Peyton Place,Grace Metalious,City and town life,475.0
+1142,Borderlands,Gloria Anzaldúa,Literary Collections,255.0
+1143,The Jungle,Upton Sinclair;Kathleen De Grave,Fiction,335.0
+1144,Plastic Jesus,Poppy Z. Brite,Fiction,105.0
+1145,Guilty But Insane,Poppy Z. Brite,Biography & Autobiography,185.0
+1146,Her Smoke Rose Up Forever,James Tiptree,Fiction,508.0
+1147,International Building Code 2003,International Code Council,Reference,656.0
+1148,Little Women,Louisa May Alcott,Family life,327.0
+1149,A Midwife's Story,Penny Armstrong;Sheryl Feldman,Biography & Autobiography,194.0
+1150,A Framework for Understanding Poverty,Ruby K. Payne,People with social disabilities,199.0
+1151,The Value of X,Poppy Z. Brite,Fiction,200.0
+1152,How to Meditate,Frederick Lenz,Meditation,228.0
+1153,Hell House,Ian Edginton;Simon Fraser,Comics & Graphic Novels,48.0
+1154,The Good Fairies of New York,Martin Millar,Fiction,242.0
+1155,Night Has a Thousand Eyes,Cornell Woolrich,Fiction,344.0
+1156,Syntactic Structures,Noam Chomsky,Language Arts & Disciplines,135.0
+1157,Joseph Cornell,Joseph Cornell;Alison Baverstock,Juvenile Nonfiction,27.0
+1158,Mistaken Identity,Nayantara Sahgal,Indic fiction (English),324.0
+1159,Between Two Fires: American Indians in the Civil War,Laurence M. Hauptman,"History,Military History,Civil War,American History,American Civil War,Nonfiction,North American Hi...,American History,Native Americans",0.0
+1160,Genuine Happiness: Meditation as the Path to Fulfillment,"B. Alan Wallace,Dalai Lama XIV","Religion,Buddhism,Philosophy,Spirituality,Psychology,Nonfiction,Religion",256.0
+1161,Happiness: Lessons from a New Science,Richard Layard,"Psychology,Nonfiction,Economics,Science,Philosophy,Self Help,Self Help,Personal Development,Sociology,Writing,Journalism,Politics",320.0
+1162,Islands,"Dan Sleigh,AndrÃ© Brink","Historical,Historical Fiction,Cultural,Africa,Southern Africa,South Africa,Fiction,Historical,Literature,African Literature,Contemporary,Literature,Literature,21st Century,Eastern Africa,Mauritius",768.0
+1163,Parnassus on Wheels,Christopher  Morley,"Fiction,Writing,Books About Books,Classics,Humor,Adventure,Novella,Historical,Historical Fiction,Romance,Literature,Audiobook",152.0
+1164,The Accidental President of Brazil: A Memoir,"Fernando Henrique Cardoso,Brian Winter","History,Cultural,Brazil,Nonfiction,Biography,Politics,Autobiography,Memoir,Economics,Culture,Society",291.0
+1165,The Canal House,Mark Lee,"Fiction,Cultural,Australia,Eastern Africa,Uganda,Historical,Historical Fiction",368.0
+1166,Naked Ambition: Women Who Are Changing Pornography,"Carly Mine,Carly Mine","Nonfiction,Sociology,Sexuality,Sex Work,Feminism,Sexuality,Gender,GLBT,Queer",340.0
+1167,Paul: His Story,Jerome Murphy-O'Connor,"Religion,Religion,Theology,Christianity,New Testament",259.0
+1168,Web Design on a Shoestring,Carrie Bickner,"Design,Website Design,Internet,Web",215.0
+1169,Black Baby White Hands: A View from the Crib,Jaiya John,"Parenting,Adoption,Nonfiction,Parenting,Autobiography,Memoir,Cultural,African American",360.0
+1170,Mad Game : The NBA Education of Kobe Bryant,Roland Lazenby,"Sports,Sports,Sports,Basketball,Biography",336.0
+1171,The Preservationist,David Maine,"Fiction,Historical,Historical Fiction,Religion,Biblical Fiction,Novels,Biblical,Historical,Humor,Fantasy,Mythology,Audiobook",256.0
+1172,Summer of Love,Katie Fforde,"Womens Fiction,Chick Lit,Romance,Fiction,Contemporary,Romance,Contemporary Romance,European Literature,British Literature,Adult,Roman,Womens Fiction,Family",376.0
+1173,The Silent People,Walter Macken,"Cultural,Ireland,Historical,Historical Fiction,Fiction,European Literature,Irish Literature,Historical,Literature,Novels",0.0
+1174,Coming Home,Trinity Blacio,"Fantasy,Paranormal,Erotica,Menage,Romance,Adult Fiction,Erotica,Paranormal,Shapeshifters,Romance,Paranormal Romance,Contemporary,Erotica,BDSM,Romance,M M Romance,Menage,M F M",141.0
+1175,Little Red Riding Hood,"Paul Galdone,Jacob Grimm,Wilhelm Grimm","Childrens,Picture Books,Fantasy,Fairy Tales,Childrens,Classics,Folk Tales,Fiction",40.0
+1176,Wild Health: How Animals Keep Themselves Well and What We Can Learn From Them,Cindy Engel,"Health,Nonfiction,Science,Food and Drink,Food,Outdoors,Wilderness,Environment,Nature",288.0
+1177,The Evolution-Creation Struggle,Michael Ruse,"Science,Religion,Biology,Evolution,Nonfiction,History,Science,Biology,Philosophy",327.0
+1178,The Mermaid Summer,Mollie Hunter,"Fantasy,Mythology,Mermaids,Fiction,Childrens,Young Adult,Childrens,Juvenile,Fantasy,Magic",128.0
+1179,Getting Control: Overcoming Your Obsessions and Compulsions,"Lee Baer,Judith L. Rapoport","Psychology,Nonfiction,Health,Mental Health,Self Help,Health",272.0
+1180,Essays in Existentialism,"Jean-Paul Sartre,Wade Baskin","Philosophy,Nonfiction,Writing,Essays,Cultural,France,Literature,Classics",448.0
+1181,Norstrilia,Cordwainer Smith,"Science Fiction,Fiction,Speculative Fiction,Science Fiction Fantasy,Fantasy,Space,Space Opera,Novels,Short Stories,United States,Anthologies",288.0
+1182,Being and Nothingness,"Jean-Paul Sartre,Hazel E. Barnes,Mary Warnock,Richard Eyre","Philosophy,Nonfiction,Classics,Cultural,France,Psychology,European Literature,French Literature,Unfinished,Philosophy,Theory,Literature,20th Century,Literature",688.0
+1183,Protector,Catherine Mann,"Romance,Romantic Suspense,Romance,War,Military Fiction,Contemporary,Military Fiction,Military Romance,Suspense,Romance,Contemporary Romance,Action,Thriller,Mystery Thriller",275.0
+1184,The Age of Reason,Thomas Paine,"Philosophy,Nonfiction,Classics,Religion,History,Politics,Religion,Atheism,Science,Writing,Essays,Literature,18th Century",180.0
+1185,Gun Before Butter,Nicolas Freeling,"Mystery,Mystery,Crime,Thriller,Mystery Thriller,European Literature,British Literature,Mystery,Detective,Fiction",249.0
+1186,Tragedy at Law,Cyril Hare,"Mystery,Fiction,Mystery,Crime,European Literature,British Literature,Historical,Historical Fiction,Thriller,Mystery Thriller,Mystery,Golden Age Mystery,Classics,Mystery,Whodunit,Adult",0.0
+1187,Tales of Known Space: The Universe of Larry Niven,"Larry Niven,Rick Sternbach","Science Fiction,Fiction,Short Stories,Space,Space Opera,Anthologies,Science Fiction Fantasy,Anthologies,Collections,Science Fiction,Hard Science Fiction,Science Fiction,Aliens,Novels",240.0
+1188,Fallen Angels,"Larry Niven,Jerry Pournelle,Michael Flynn","Science Fiction,Fiction,Fantasy,Adventure,Science Fiction Fantasy,Space,Science,Technology,Historical,Epic,Thriller",368.0
+1189,The Quest for Arthur's Britain,Geoffrey Ashe,"History,Mythology,Arthurian,Nonfiction,Fantasy,Mythology,Historical,Medieval,History,Archaeology,European Literature,British Literature,Religion,Paganism,Reference",318.0
+1190,Scumbler,William Wharton,"Fiction,Novels",288.0
+1191,Pride,William Wharton,"Fiction,Novels,Historical,Classics",304.0
+1192,The Devil in Vienna,Doris Orgel,"Historical,Historical Fiction,World War II,Holocaust,Fiction,Young Adult,Historical,War,World War II,Childrens,Childrens,Middle Grade,Realistic Fiction",256.0
+1193,A Dog Called Kitty,Bill Wallace,"Childrens,Animals,Fiction,Realistic Fiction,Animals,Dogs,Childrens,Middle Grade,Young Adult,Classics,Childrens,Juvenile,Childrens,Chapter Books",176.0
+1194,Ohitika Woman,"Mary Brave Bird,Richard Erdoes,Mary Crow Dog","Nonfiction,Autobiography,Memoir,Biography,History,Biography Memoir,Native Americans,History,Native American History,Cultural,Womens",304.0
+1195,Dark of the Moon,Tracy Barrett,"Fantasy,Mythology,Fantasy,Young Adult,Historical,Historical Fiction,Retellings,Historical,Mythology,Greek Mythology,Fiction,Fantasy,Paranormal,Romance",310.0
+1196,The Captive,Joyce Hansen,"Historical,Historical Fiction,Childrens,Cultural,Africa,Historical,Young Adult,Novels",192.0
+1197,A Talent for Genius: The Life and Times of Oscar Levant,"Sam Kashner,Nancy Schoenberger","Biography,Music,Nonfiction,Culture,Film",512.0
+1198,An Intimate Chronicle: The Journals of William Clayton,"William Clayton,George D. Smith","Christianity,Lds",678.0
+1199,Trouble with Trolls,Jan Brett,"Childrens,Picture Books,Childrens,Holiday,Christmas,Fantasy,Animals,Fiction,Adventure,Fantasy,Fairy Tales,Holiday,Kids",32.0
+1200,Special Forces,Erosa Knowles,"Romance,Interracial Romance,Romance,War,Military Fiction,Adult Fiction,Erotica,Contemporary,Romance,Contemporary Romance,Military Fiction,Military Romance,Romance,M F Romance,Adult",242.0
+1201,What Is The Church?,D. Martyn Lloyd-Jones,"Religion,Theology,Christianity,Ecclesiology",24.0
+1202,Troll: A Love Story,"Johanna Sinisalo,Herbert Lomas","Fantasy,Fiction,European Literature,Finnish Literature,LGBT,Fantasy,Urban Fantasy,GLBT,Queer,Contemporary,Romance,Magical Realism,Novels",278.0
+1203,Rapture of the Deep: The Art of Ray Troll,"Ray Troll,David James Duncan,Bradford Matsen",Art,148.0
+1204,Jandar of Callisto,"Lin Carter,Vincent Di Fate","Fantasy,Science Fiction,Science Fiction,Sword and Planet,Fiction,Adventure,Science Fiction Fantasy,Pulp",224.0
+1205,Classical Deception,Wayne G. Sayles,Antiques & Collectibles,0.0
+1206,50 Great Short Stories,"Milton Crane,Katherine Mansfield,William Saroyan,Edith Wharton,Ernest Hemingway,Katherine Anne Porter,Flannery O'Connor,Frank O'Connor,Edmund Wilson,Aldous Huxley,Stephen Vincent BenÃ©t,Clarence Day Jr.,John O'Hara,James Joyce,John Steinbeck,E.B. White,Dorothy Parker,Anton Chekhov,Wilbur Daniel Steele,Virginia Woolf,James Thurber,Saki,Arthur Schnitzler,Anatole France,George Milburn,Sylvia Townsend Warner,William Faulkner,Robert M. Coates,V.S. Pritchett,H.L. Mencken,Irwin Shaw,Lord Dunsany,Nathaniel Hawthorne,W. Somerset Maugham,Thomas Wolfe,Ring Lardner,H.G. Wells,Francis Steegmuller,Robert Louis Stevenson,John Collier,E.M. Forster,Henry James,Carson McCullers,Rudyard Kipling,Alexander Pushkin,Max Beerbohm,Shirley Jackson,Edgar Allan Poe,Guy de Maupassant,O. Henry,Joseph Conrad","Short Stories,Fiction,Classics,Literature,Anthologies,Literary Fiction,Unfinished,Own,Anthologies,Collections,Literature,20th Century",571.0
+1207,The Man Who Killed the Deer,Frank Waters,"Fiction,Historical,Historical Fiction,Westerns,Classics,Native Americans,North American Hi...,American History,Literary Fiction,Cultural,Literature,Literature,American",224.0
+1208,The Legend of the Lady Slipper,"Margi Preus,Margi Preus,Andrea Arroyo","Childrens,Picture Books,Childrens,Folklore,Cultural,Folk Tales",32.0
+1209,Gerald Massey's Lectures,Gerald Massey,Religion,288.0
+1210,The Universe in a Single Atom: The Convergence of Science and Spirituality,Dalai Lama XIV,"Nonfiction,Science,Religion,Buddhism,Philosophy,Spirituality,Religion,Audiobook,Science,Physics,Psychology,Religion,Theology",224.0
+1211,Deep-Sky Companions: The Caldwell Objects,Stephen James O'Meara,"Science,Astronomy,Science",500.0
+1212,The Artist's Complete Guide to Facial Expression,Gary Faigin,"Art,Art,Drawing,Nonfiction,Reference,Sequential Art,Comics,Psychology,Design,Art,Crafts,Art,Art Design",304.0
+1213,"Redcoats: The British Soldier and War in the Americas, 1755-1763",Stephen Brumwell,"History,Military History,American Revolution,European Literature,British Literature,Nonfiction",349.0
+1214,K-Pax,Gene Brewer,"Science Fiction,Fiction,Novels,Mystery,Psychology,Audiobook,Fantasy,Science Fiction,Aliens,Literature,American,Science Fiction Fantasy",256.0
+1215,Game Development Essentials: An Introduction,Jeannie Novak,"Sports and Games,Games,Textbooks,Games,Game Design,Computer Science,Programming,Games,Gaming,Nonfiction",512.0
+1216,New Adventures Of Mother Goose The,Bruce Lansky,"Childrens,Nursery Rhymes,Poetry,Childrens,Childrens,Picture Books",0.0
+1217,Hunted,Evangeline Anderson,"Romance,Science Fiction,Science Fiction,Aliens,Fantasy,Paranormal,Romance,Paranormal Romance,Adult Fiction,Erotica,Romance,Science Fiction Romance,Fantasy,Adult,Paranormal,Vampires",466.0
+1218,"Perrine's Literature: Structure, Sound, and Sense",Thomas R. Arp,"Reference,Literature,Poetry,Nonfiction,Textbooks,Anthologies,Academic,School,Young Adult,High School,Humanities,Language,Classics",1522.0
+1219,Against Gravity,Farnoosh Moshiri,"Fiction,Contemporary",336.0
+1220,Raft,Stephen Baxter,"Science Fiction,Fiction,Space,Space Opera,Science Fiction,Hard Science Fiction,Science Fiction Fantasy,Novels,Space,Speculative Fiction,Science Fiction,Aliens",251.0
+1221,Clinical Interviewing,"John Sommers-Flanagan,Rita Sommers-Flanagan","Psychology,Nonfiction,Textbooks,Psychology,Counselling,Academic,Academic,Grad School",456.0
+1222,Through the Storm,Beverly Jenkins,"Romance,Romance,Historical Romance,Historical,Historical Fiction,Historical,Cultural,African American,Adult,Military History,Civil War,Fiction,Romance,African American Romance,Adult Fiction",384.0
+1223,Black Lace,Beverly Jenkins,"Romance,Romance,African American Romance,Romance,Romantic Suspense,Contemporary,Fiction,Romance,Contemporary Romance,Cultural,African American",384.0
+1224,Black Storm,David Poyer,"War,Military Fiction,Thriller,Fiction,Adventure",384.0
+1225,People of the Sea: The Search for the Philistines,"Trude Dothan,Moshe Dothan","History,Ancient History,History,Archaeology,History",0.0
+1226,The Titans,John Jakes,"Historical,Historical Fiction,Fiction,Historical,Military History,Civil War,War,North American Hi...,American History,Adult,Fantasy,Novels,Drama",560.0
+1227,Legacy,Molly Cochran,"Young Adult,Fantasy,Fantasy,Paranormal,Paranormal,Witches,Romance,Fantasy,Magic,Fantasy,Supernatural,Fantasy,Urban Fantasy,School Stories,Boarding School,Young Adult,Young Adult Paranormal",418.0
+1228,Orion's Hounds,Christopher L. Bennett,"Media Tie In,Star Trek,Science Fiction,Fiction,Star Trek,Star Trek The Next Generation,Science Fiction Fantasy,Novels,Space,Space Opera,Media Tie In,Tv,Media Tie In",379.0
+1229,The Passage,David Poyer,"War,Military Fiction,Fiction,Thriller,War",560.0
+1230,Chris Carmichael's Food for Fitness,"Chris Carmichael,Jim Rutberg,Kathy Zawadzki","Health,Nonfiction,Sports,Fitness,Sports,Cycling,Health,Nutrition",448.0
+1231,A Wild Yearning,Penelope Williamson,"Romance,Historical Romance,Romance,Historical,Westerns,Romance,Western Romance,Historical,Historical Fiction,Mail Order Brides",448.0
+1232,Prey,Graham Masterton,"Horror,Fiction,Mystery,Lovecraftian,Cthulhu Mythos,Thriller,Science Fiction,Time Travel",352.0
+1233,Behind the Secret Window,Nelly S. Toll,"World War II,Holocaust,Nonfiction,History,Biography,War,Autobiography,Memoir,Biography,Autobiography,War,World War II,Adult,Childrens",160.0
+1234,Confessions of a Spy,Pete Earley,"Nonfiction,History,Spy Thriller,Espionage,Biography,Crime,True Crime,Politics",365.0
+1235,Blood Secret,Kathryn Lasky,"Historical,Historical Fiction,Young Adult,Historical,Fiction,Religion,Cultural,Spain,Fantasy,Literature,Jewish,Family,Mystery",256.0
+1236,"The Accidental Republic: Crippled Workingmen, Destitute Widows, and the Remaking of American Law",John Fabian Witt,"Law,North American Hi...,American History",311.0
+1237,Quantum: A Guide for the Perplexed,Jim Al-Khalili,"Science,Science,Physics,Nonfiction,Physics,Quantum Mechanics,Science,Popular Science,Audiobook,Reference,Adult,Space,Science,Chemistry",280.0
+1238,A Guide to Experiments in Quantum Optics,"Hans-A. Bachor,Timothy C. Ralph","Science,Physics",434.0
+1239,Queer Dharma: Voices of Gay Buddhists,Winston Leyland,"Religion,Buddhism,LGBT,Gay,GLBT,Queer Studies,GLBT,Queer",416.0
+1240,Quantum Theory: A Very Short Introduction,John C. Polkinghorne,"Science,Science,Physics,Nonfiction,Philosophy,Science,Popular Science,History,Physics,Quantum Mechanics,Science,Chemistry,Reference,Audiobook",113.0
+1241,Einstein for Beginners,"Joseph Schwartz,Michael McGuinness","Science,Nonfiction,Biography,Science,Physics,History,Sequential Art,Graphic Novels,Reference,Science,Popular Science,Science,Mathematics,Biography,Autobiography",176.0
+1242,The Day of the Scorpion,Paul Scott,"Historical,Historical Fiction,Cultural,India,Fiction,Historical,Literature,European Literature,British Literature,Classics,Literature,20th Century,Novels,Cultural,Asia",493.0
+1243,The Hammer,"S.M. Stirling,David Drake","Science Fiction,Fiction,Science Fiction,Military Science Fiction,Fantasy,War,Military Fiction,Science Fiction Fantasy,War",320.0
+1244,Pollyanna,Eleanor H. Porter,"Classics,Fiction,Childrens,Young Adult,Historical,Historical Fiction,Childrens,Middle Grade,Historical,Childrens,Childrens Classics,Literature,American,Childrens,Juvenile",304.0
+1245,Darwin and the Beagle,Alan Moorehead,"History,Nonfiction,Biography,Science,Biology,Evolution,Travel,Science,History Of Science,Environment,Nature,Science,Biology,Science,Natural History",224.0
+1246,The Prophets,Abraham Joshua Heschel,"Religion,Theology,Religion,Religion,Judaism,Literature,Jewish,Philosophy,Nonfiction,Christian,Religion,Christianity,Judaism,Judaica,Christianity,Old Testament",704.0
+1247,Fundamentals of Anatomy & Physiology,"Frederic H. Martini,Judi L. Nath","Science,Textbooks,Reference,Medical,Academic,School,Science,Biology,Nonfiction,Health,Medicine,Academic,Read For School,Education",1114.0
+1248,Research Methods in Social Relations,"Rick H. Hoyle,Charles M. Judd","Psychology,Academic",592.0
+1249,Treasures in the Trunk: Quilts of the Oregon Trail,Mary Bywater Cross,"Crafts,Quilting,History,Reference,Crafts,Sewing,Nonfiction",174.0
+1250,Wolfsbane,Shannon West,"Romance,M M Romance,Fantasy,Paranormal,Paranormal,Shapeshifters,Fantasy,LGBT,Gay,Romance,M M Romance,M M Paranormal,Shapeshifters,Werewolves,Erotica,BDSM,Contemporary",147.0
+1251,John F. Kennedy,"Alan Brinkley,Sean Wilentz","Politics,Presidents,History,Biography,Nonfiction,North American Hi...,American History,Politics,Presidents,Us Presidents,Literature,American",224.0
+1252,Remembrance,Michelle Madow,"Young Adult,Romance,Fantasy,Science Fiction,Time Travel,Fantasy,Paranormal,Contemporary,Fantasy,Magic,Fiction,Mystery,Science Fiction",314.0
+1253,Blood Lust,Brian  Jackson,"Romance,M M Romance,M M Romance,M M Fantasy,Horror,Paranormal,Vampires",0.0
+1254,Ghouls,"Chuck Wendig,Matt McFarland","Games,Role Playing Games,Horror,Paranormal,Vampires",144.0
+1255,Krav Maga: How to Defend Yourself Against Armed Assault,Imi Sde-Or,"Combat,Martial Arts,Nonfiction,Sports,Sports,Health",256.0
+1256,Pickup Artists: Street Basketball in America,"Lars Anderson,Chad Millman","Sports,Sports,Sports,Basketball",214.0
+1257,The History Buff's Guide to the Civil War,Thomas R. Flagel,"History,Military History,Civil War,Nonfiction,North American Hi...,American History,American History,American Civil War,Military,Military History,Historical,Reference",514.0
+1258,Children of Pithiviers,Sheila Kohler,Fiction,176.0
+1259,The Dead Secret,Wilkie Collins,"Classics,Mystery,Fiction,Gothic,Historical,Victorian,Literature,19th Century,European Literature,British Literature,Literature,Suspense,Classics,Classic Literature",340.0
+1260,The Frozen Deep,Wilkie Collins,"Classics,Fiction,Mystery,Historical,Victorian,Historical,Historical Fiction,Literature,19th Century,Gothic,Literature,English Literature,European Literature,British Literature,Short Stories",106.0
+1261,That Hideous Strength,C.S. Lewis,"Science Fiction,Fiction,Fantasy,Christian,Classics,Christian Fiction,Science Fiction Fantasy,Religion,Christianity,Religion,Literature",534.0
+1262,Coming to Jakarta: A Poem about Terror,Peter Dale Scott,Poetry,160.0
+1263,Silver-Tongued Devil,Jaye Wells,"Fantasy,Urban Fantasy,Paranormal,Vampires,Fantasy,Paranormal,Fantasy,Fantasy,Magic,Romance,Paranormal,Demons,Paranormal,Witches,Romance,Paranormal Romance,Shapeshifters,Werewolves",405.0
+1264,Winter Fire,Jess Dee,"Adult Fiction,Erotica,Erotica,Menage,Romance,Menage,M F M,Romance,Erotic Romance,Contemporary,Romance,Contemporary Romance,Novella,Business,Amazon,Short Stories",0.0
+1265,Never Too Late,Betty Neels,"Romance,Category Romance,Harlequin,Romance,Contemporary Romance,Harlequin,Hqn",224.0
+1266,Genetics,A.V.S. Sambamurty,Genetic regulation,820.0
+1267,L.A. Noir,James Ellroy,"Mystery,Crime,Fiction,Mystery,Mystery,Noir,Thriller,Literature,American,Mystery,Detective,Thriller,Mystery Thriller,Suspense,Novels",644.0
+1268,Madam: Inside a Nevada Brothel,Lora Shaner,Nonfiction,360.0
+1269,"Italy and Its Discontents: Family, Civil Society, State",Paul Ginsborg,"History,Cultural,Italy,Nonfiction,Politics,History,European History,European Literature,British Literature",544.0
+1270,Olivia,R. Lee Smith,"Fantasy,Fantasy,Paranormal,Horror,Dark,Romance,Adult Fiction,Erotica,Science Fiction,Adult,Erotica,Menage,Fantasy,Supernatural",1032.0
+1271,Stonehenge,Bernard Cornwell,"Historical,Historical Fiction,Fiction,Historical,Fantasy,European Literature,British Literature,Adventure,Historical Fiction,Historical Fantasy,Historical Fiction,Prehistoric,History,Prehistory,Romance",578.0
+1272,"Pokemon Gold, Silver, and Crystal (Prima's Official Strategy Guide)",Elizabeth M. Hollinger,"Sports and Games,Games",112.0
+1273,The Nude: A Study in Ideal Form,Kenneth  Clark,"Art,Nonfiction,Art,Art History,History,Philosophy,Reference,Philosophy,Theory,Classics,Art,Visual Art,Sexuality",480.0
+1274,365 Ways To Checkmate,Joe   Gallagher,"Games,Chess",208.0
+1275,Farscape: The Illustrated Companion,"Paul Simpson,David         Hughes","Nonfiction,Media Tie In,Tv,Media Tie In,Culture,Pop Culture",160.0
+1276,Crimes of the City,Robert Rosenberg,"Cultural,Israel,Mystery,Crime",200.0
+1277,The Cabin: Inspiration for the Classic American Getaway,"Dale Mulfinger,Susan E. Davis","Architecture,Nonfiction,Reference",250.0
+1278,Gog,"Giovanni Papini,Fikret Adil","Fiction,Literature,European Literature,Italian Literature,Cultural,Italy,Novels,Philosophy,Roman,Classics,Short Stories,Unfinished",386.0
+1279,"Will Write for Food: The Complete Guide to Writing Cookbooks, Restaurant Reviews, Articles, Memoir, Fiction and More",Dianne Jacob,"Language,Writing,Food and Drink,Food,Nonfiction,Food and Drink,Cooking,Food and Drink,Cookbooks,Reference,Writing,Journalism,Food and Drink,Food Writing,Business,Food and Drink,Culinary",320.0
+1280,What Makes Sammy Run?,Budd Schulberg,"Fiction,Classics,Novels,Culture,Film,Literature,American,Philosophy,Literature,Media Tie In,Contemporary,Self Help",320.0
+1281,Mildred Pierce,James M. Cain,"Fiction,Classics,Mystery,Noir,Mystery,Historical,Historical Fiction,Mystery,Crime,Novels,Literature,20th Century,Literature,Audiobook",288.0
+1282,Balthazar,Lawrence Durrell,"Fiction,Classics,Historical,Historical Fiction,Literature,Northern Africa,Egypt,Novels,Literary Fiction,Literature,20th Century,European Literature,British Literature,Literature,English Literature",280.0
+1283,The Post-Colonial Studies Reader,Bill Ashcroft,"Nonfiction,Philosophy,Theory,Culture,Cultural Studies,Literature,Post Colonial,Reference,Literature,20th Century,Philosophy,Criticism,Literary Criticism,Academic,School,History",526.0
+1284,I'm Just Here for More Food: Food x Mixing + Heat = Baking,Alton Brown,"Food and Drink,Cookbooks,Food and Drink,Cooking,Food and Drink,Food,Nonfiction,Reference,Science,How To,Food and Drink,Culinary,Food and Drink,Food and Drink,Foodie",336.0
+1285,Alton Brown's Gear for Your Kitchen,Alton Brown,"Food and Drink,Cookbooks,Food and Drink,Cooking,Food and Drink,Food,Nonfiction,Reference,Food and Drink,How To,Science,Food and Drink,Foodie,Anthologies,Collections",256.0
+1286,Passion's Ransom,Betina Krahn,"Romance,Historical Romance,Romance,Adventure,Pirates,Historical,Historical,Historical Fiction,American Revolution,American Revolutionary War,Adult,Fiction",447.0
+1287,"The Search for Big Foot: Monster, Myth or Man?",Peter Byrne,"Fantasy,Paranormal,Nonfiction",244.0
+1288,Bigfoot and Other Legendary Creatures,"Paul Robert Walker,William Noonan",Juvenile Nonfiction,64.0
+1289,Bigfoot,Richard Hoyt,Nature,224.0
+1290,Genders in Production: Making Workers in Mexico's Global Factories,Leslie Salzinger,"Sociology,Anthropology,Ethnography,Academic",232.0
+1291,A Kiss To Remember,Miranda Lee,"Category Romance,Harlequin,Harlequin,Harlequin Presents,Romance,Romance,Contemporary Romance,Harlequin,Harlequin Romance",192.0
+1292,Nell Gwyn: Mistress to a King,Charles Beauclerk,"History,Biography,Nonfiction,Literature,17th Century,Historical,European Literature,British Literature,Feminism,History,European History,Biography Memoir",448.0
+1293,The Reader,"Amy Hest,Lauren Castillo","Childrens,Picture Books,Childrens,Animals,Dogs,Fiction,Writing,Books About Books,Realistic Fiction,Animals,Childrens,Storytime,Childrens,Juvenile,Contemporary",32.0
+1294,Between the Lines,Roberta Dennis,,186.0
+1295,Where Time Winds Blow,Robert Holdstock,"Science Fiction,Fantasy,Fiction,Science Fiction Fantasy,Science Fiction,Time Travel",250.0
+1296,Little Oh,"Laura Krauss Melmed,Jim LaMarche","Childrens,Picture Books,Fantasy,Childrens,Cultural,Japan,Literature,Asian Literature,Fiction,Fantasy,Fairy Tales,Art,Family,Adventure",32.0
+1297,Byzantium,Michael Ennis,"Historical,Historical Fiction,Fiction",768.0
+1298,"Happiness, Death, and the Remainder of Life",Jonathan Lear,"Philosophy,Psychology,Psychoanalysis,Nonfiction",204.0
+1299,The Snail and the Whale,"Julia Donaldson,Axel Scheffler","Childrens,Picture Books,Childrens,Animals,Poetry,Fiction,Adventure,Environment,Nature,Travel,Childrens,Storytime,Academic,School",32.0
+1300,"The Duke of Havana: Baseball, Cuba, and the Search for the American Dream","Steve Fainaru,Ray SÃ¡nchez","Sports,Baseball,Sports,Sports,Biography,Nonfiction",368.0
+1301,The Tarot,Joseph Maxwell,"Occult,Tarot",223.0
+1302,Looking for Trouble,Julie Elizabeth Leto,"Romance,Harlequin,Harlequin Blaze,Category Romance,Harlequin",256.0
+1303,Those in Peril,Wilbur Smith,"Fiction,Thriller,Adventure,Action,Historical,Historical Fiction,Cultural,Africa,Mystery,Crime,Thriller,Mystery Thriller,Mystery,Audiobook",386.0
+1304,The Beast,Alianne Donnelly,"Romance,Fantasy,Fantasy,Fairy Tales,Fantasy,Paranormal,Novella,Romance,Paranormal Romance,Short Stories,Fairy Tales,Beauty and The Beast,Historical",52.0
+1305,The Pie and Pastry Bible,"Rose Levy Beranbaum,Maria D. Guarnaschelli","Food and Drink,Cookbooks,Food and Drink,Cooking,Food and Drink,Food,Nonfiction,Reference,Food and Drink,Food and Drink,Foodie,Food and Drink,Culinary",704.0
+1306,The Effective Invitation: A Practical Guide for the Pastor,R. Alan Streett,Religion,272.0
+1307,The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts,Mark S. Smith,"Religion,History,Nonfiction,Literature,Jewish,Religion,Theology,Religion,Judaism,Christianity,Old Testament,Fantasy,Mythology",352.0
+1308,Andrew Jackson: His Life and Times,H.W. Brands,"Biography,History,Politics,Presidents,Nonfiction,North American Hi...,American History,Politics,Presidents,Us Presidents,Biography Memoir,Literature,American,Audiobook",656.0
+1309,Hush,Stacey R. Campbell,"Young Adult,Romance,Contemporary,Mystery,School Stories,Boarding School,Fiction,Young Adult,High School,Fantasy,Thriller,Womens Fiction,Chick Lit",278.0
+1310,The Genius of the System: Hollywood Filmmaking in the Studio Era,"Thomas Schatz,Steven Bach","Culture,Film,Nonfiction,History,Media Tie In,Business,Academic,Read For School,North American Hi...,American History,Reference,Academic,Culture,Pop Culture",528.0
+1311,Fatal Flaw,William Lashner,"Mystery,Fiction,Thriller,Thriller,Legal Thriller,Mystery,Crime,Thriller,Mystery Thriller",563.0
+1312,She Captains: Heroines and Hellions of the Sea,Joan Druett,"History,Nonfiction,Adventure,Pirates,Womens,Biography,Historical,Feminism,Adventure,Biography Memoir,Reference,Research",304.0
+1313,The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture,John Battelle,"Business,Nonfiction,Science,Technology,Computers,Internet,Business,Google,Science,Computer Science,History,Computer Science,Computers,Internet,Web,Economics",320.0
+1314,Wolf Tales,Kate Douglas,"Adult Fiction,Erotica,Fantasy,Paranormal,Romance,Paranormal Romance,Romance,Paranormal,Shapeshifters,Erotica,Menage,Shapeshifters,Werewolves,Romance,Erotic Romance,Adult,Fantasy",257.0
+1315,Nectar in a Sieve,Kamala Markandaya,"Fiction,Classics,Cultural,India,Historical,Historical Fiction,Academic,School,Academic,Read For School,Asian Literature,Indian Literature,Literature,Historical,Young Adult,High School",186.0
+1316,All Roads Lead to the Sea,Kapka Kassabova,Poetry,0.0
+1317,The Rose of the World,Alys Clare,"Mystery,Historical,Historical Fiction,Fiction,Historical,Medieval,Historical,Mystery,Historical Mystery,Literature,13th Century,European Literature,British Literature,Fantasy,Mystery,Crime",240.0
+1318,In the Balance,Patricia Wentworth,"Mystery,Fiction,Mystery,Crime,European Literature,British Literature,Mystery,Cozy Mystery,Historical,Historical Fiction,Classics,Audiobook,Literature,20th Century,Thriller,Mystery Thriller",342.0
+1319,The Earth Manual: How to Work on Wild Land Without Taming It,"Malcolm Margolin,Michael   Harney","Wildlife,Environment,Nature",254.0
+1320,Ruled Britannia,Harry Turtledove,"Science Fiction,Alternate History,Historical,Historical Fiction,Fiction,Science Fiction,Fantasy,Historical,Speculative Fiction,Science Fiction Fantasy,War,European Literature,British Literature",464.0
+1321,Stormswept,"Deborah Martin,Sabrina Jeffries","Romance,Historical Romance,Romance,Historical,Adult,Historical,Regency,Historical,Historical Fiction,Fiction,Historical,Georgian,Historical Romance,Regency Romance,Audiobook",350.0
+1322,Departures,Harry Turtledove,"Science Fiction,Alternate History,Science Fiction,Short Stories,Fantasy,Fiction,Anthologies,Science Fiction Fantasy,Historical",342.0
+1323,Malcolm,"George MacDonald,Michael R. Phillips","Fiction,Christian Fiction,Historical,Historical Fiction,Young Adult,Classics",0.0
+1324,Homeward Bound,"Harry Turtledove,Jim  Burns","Science Fiction,Science Fiction,Alternate History,Fiction,Historical,Historical Fiction,Fantasy,War,Military Fiction,War,Science Fiction Fantasy,Science Fiction,Aliens,Speculative Fiction",648.0
+1325,Savage Pellucidar,"Edgar Rice Burroughs,J. Allen St. John,Harry Turtledove","Fantasy,Science Fiction,Fiction,Adventure,Science Fiction Fantasy,Speculative Fiction,Literature,Pulp,Classics,Role Playing Games,Dungeons and Dragons",304.0
+1326,A Visual Dictionary of Architecture,Francis D.K. Ching,"Architecture,Reference,Nonfiction,Design,Art,Cultural Heritage,Heritage Preservation,Art,Art Design,Education,Preservation,Anthologies,Collections",320.0
+1327,A Creepy Countdown,"Charlotte S. Huck,Jos. A. Smith","Holiday,Halloween,Childrens,Picture Books,Number,Counting,Childrens,Holiday,Childrens,Juvenile,Folklore,Monsters,Mathematics,Number",24.0
+1328,Air Power and Maneuver Warfare,Martin van Creveld,"War,Military Fiction",288.0
+1329,The Stolen Throne,Harry Turtledove,"Fantasy,Science Fiction,Science Fiction,Alternate History,Fiction",356.0
+1330,Worlds that Weren't,"Harry Turtledove,S.M. Stirling,Mary Gentle,Walter Jon Williams","Science Fiction,Alternate History,Science Fiction,Fiction,Anthologies,Fantasy,Short Stories,Historical,Historical Fiction,Historical,Science Fiction Fantasy,Literature",320.0
+1331,Agent of Byzantium,"Harry Turtledove,Isaac Asimov","Science Fiction,Alternate History,Science Fiction,Fiction,Historical,Historical Fiction,Fantasy,Short Stories,Historical,Science Fiction Fantasy,Spy Thriller,Espionage,Speculative Fiction",246.0
+1332,A Different Flesh,Harry Turtledove,"Science Fiction,Alternate History,Science Fiction,Fiction,Anthologies,Fantasy,Short Stories,Science Fiction Fantasy,Historical",292.0
+1333,South Riding,"Winifred Holtby,Shirley Williams,Marion Shaw","Classics,Fiction,Historical,Historical Fiction,European Literature,British Literature,Literature,20th Century,Classics,Modern Classics,Feminism,Novels,Literature,Historical",492.0
+1334,Alternate Generals II,Harry Turtledove,"Science Fiction,Alternate History,Science Fiction,Fiction,Science Fiction Fantasy,Short Stories,Fantasy",378.0
+1335,Swords of the Legion,Harry Turtledove,"Fantasy,Fiction,Science Fiction,Alternate History,Science Fiction,Historical,Historical Fiction,Science Fiction Fantasy,Speculative Fiction,Heroic Fantasy,Sword and Sorcery,Literature,Literature,American",394.0
+1336,Aircraft of World War II,Jim Winchester,"Nonfiction,Transport,Aircraft,War,Military Fiction,History,Aviation,War,World War II",256.0
+1337,Turbulence,Dana Mentink,"Mystery,Category Romance,Love Inspired,Love Inspired,Love Inspired Suspense,Romance,Christian,Adventure,Suspense,Fiction,Thriller,Mystery Thriller,Christian Fiction",215.0
+1338,Can You Trust a Tomato in January?,Vince Staten,"Nonfiction,Food and Drink,Food,Reference,Trivia,Reference",240.0
+1339,Body of Evidence,Patricia Cornwell,"Mystery,Mystery,Crime,Fiction,Thriller,Thriller,Mystery Thriller,Suspense,Mystery,Murder Mystery,Mystery,Detective,Audiobook,Adult",403.0
+1340,Dress Your Family in Corduroy and Denim,David Sedaris,"Humor,Nonfiction,Autobiography,Memoir,Writing,Essays,Short Stories,Humor,Comedy,Audiobook,Biography,Biography Memoir,Biography,Autobiography",257.0
+1341,Operations Management,"Jay Heizer,Barry Render","Business,Textbooks,Nonfiction,Business,Management,Reference,Academic,School",848.0
+1342,The Understudy,Jack Weyland,"Lds,Lds Fiction,Christianity,Lds,Fiction,Religion,Young Adult,Adult,Young Adult,Teen",122.0
+1343,Dead Ringer,John Francome,"Mystery,Mystery,Crime,Animals,Horses,Sports,Sports,Fiction",352.0
+1344,First Degree,David Rosenfelt,"Mystery,Fiction,Audiobook,Animals,Dogs,Mystery,Crime,Thriller,Mystery Thriller,Thriller,Thriller,Legal Thriller,Humor,Animals",304.0
+1345,The Next Library Leadership: Attributes of Academic and Public Library Directors,"Peter Hernon,Ronald R. Powell,Arthur P. Young","Science,Library Science",208.0
+1346,Managing Your Documentation Projects,JoAnn T. Hackos,"Language,Writing,Reference",656.0
+1347,When Sparrows Fall,Meg Moseley,"Christian Fiction,Fiction,Romance,Contemporary,Christian,Inspirational,Religion,Womens Fiction,Chick Lit,Adult,Romance,Christian Romance",352.0
+1348,Wild Robert,Diana Wynne Jones,"Fantasy,Childrens,Fiction,Young Adult,Childrens,Middle Grade,Young Adult,Young Adult Fantasy,Humor,European Literature,British Literature,Science Fiction Fantasy,Fantasy,Magic",96.0
+1349,"America's Library: The Story of the Library of Congress, 1800-2000","James Conaway,Edmund Morris","History,Nonfiction,North American Hi...,American History,Writing,Books About Books,Politics,Science,Library Science",240.0
+1350,The River of Time,David Brin,"Science Fiction,Fiction,Short Stories,Anthologies,Fantasy,Anthologies,Collections,Science Fiction Fantasy,Space,Space Opera,Literature,American,Science Fiction,Hard Science Fiction",352.0
+1351,The Practice Effect,David Brin,"Science Fiction,Fantasy,Fiction,Science Fiction Fantasy,Adventure,Speculative Fiction,Audiobook,Humor,Modern,Astronomy,Planets",277.0
+1352,Japanese Prints,Gabriele Fahr-Becker,"Art,Cultural,Japan,Nonfiction,Reference,Asian Literature,Japanese Literature,History,Art,Art History,Cultural,Asia",240.0
+1353,A Change of Climate,Hilary Mantel,"Fiction,Historical,Historical Fiction,Cultural,Africa,Literary Fiction,Literature,European Literature,British Literature,Audiobook,Novels,Contemporary,Southern Africa,South Africa",342.0
+1354,As I Walked Out One Midsummer Morning,"Laurie Lee,Leonard Rosoman","Travel,Nonfiction,Biography,Autobiography,Memoir,Cultural,Spain,History,Adventure,Biography,Autobiography,Classics,Literature,20th Century",192.0
+1355,Silver,Rhiannon Held,"Fantasy,Urban Fantasy,Fantasy,Fantasy,Paranormal,Shapeshifters,Werewolves,Romance,Paranormal,Shapeshifters,Fiction,Romance,Paranormal Romance,Young Adult,Adult",320.0
+1356,Prehistoric America: A Journey through the Ice Age and Beyond,"Miles Barton,Ian Gray,Adam White,Stephen Dunleavy,Nigel Bean,Bruce Means","Nonfiction,Science",192.0
+1357,He Did This Just For You,Max Lucado,"Christian,Nonfiction,Religion,Christianity,Spirituality,Christian,Christian Non Fiction,Religion",64.0
+1358,Ancient Egyptian Materials and Technology,Paul T. Nicholson,"History,Northern Africa,Egypt,History,Archaeology",0.0
+1359,Out of the Black Shadows: The Amazing Transformation of Stephen Lungu,Stephen Lungu,"Christian,Biography,Nonfiction,Cultural,Africa,Religion,Christianity,Eastern Africa,Zimbabwe,Religion",256.0
+1360,"Problems of Democratic Transition and Consolidation: Southern Europe, South America, and Post-Communist Europe","Juan J. Linz,Alfred Stepan","Politics,Politics,Political Science,History,Nonfiction",504.0
+1361,The Human Mind,Robert Winston,"Nonfiction,Psychology,Science,Biology,Neuroscience,Neuroscience,Brain,Science,Popular Science",528.0
+1362,This Little Chick,John Lawrence,"Childrens,Picture Books,Animals,Childrens,Storytime,Childrens,Fiction,Animals,Birds,Family,Childrens,Juvenile",32.0
+1363,View with a Grain of Sand: Selected Poems,"WisÅ‚awa Szymborska,StanisÅ‚aw BaraÅ„czak,Clare Cavanagh","Poetry,Cultural,Poland,European Literature,Polish Literature,Nobel Prize,Classics,Literature,Womens,Fiction,Female Authors,Literature,European Literature",214.0
+1364,Rogue Male,Geoffrey Household,"Fiction,Thriller,Mystery,Crime,Mystery,Adventure,Thriller,Mystery Thriller,Suspense,Spy Thriller,Espionage,Classics,European Literature,British Literature",182.0
+1365,Stokes Field Guide to Birds: Western Region,"Donald Stokes,Lillian Stokes","Animals,Birds,Environment,Nature,Nonfiction,Reference,Field Guides,Science,Animals,Reference,Own",560.0
